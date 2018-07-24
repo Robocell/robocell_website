@@ -17,16 +17,13 @@
           <h4>Follow Us<span class="head-line"></span></h4>
           <ul class="social-icons">
             <li>
-              <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
+              <a class="facebook" href="https://www.facebook.com/RobocellNITDgp/"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
-              <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
+              <a class="instagram" href="https://www.instagram.com/robocellnitdgp/"><i class="fa fa-instagram"></i></a>
             </li>
             <li>
-              <a class="google" href="#"><i class="fa fa-google-plus"></i></a>
-            </li>
-            <li>
-              <a class="dribbble" href="#"><i class="fa fa-youtube"></i></a>
+              <a class="youtube" href="https://www.youtube.com/channel/UCrKbVHAMV8lkh25pck7RdcQ"><i class="fa fa-youtube"></i></a>
             </li>
             <!--
             <li>
@@ -80,10 +77,10 @@
 		  <div class="col-md-3 col-xs-12">
         <div class="footer-widget contact-widget">
           <ul>
-          <li><span>Address: </span>NIT Durgapur,West Bengal, India -713209</li> 
-            <li><span>Phone Number: </span>+91 99999999999</li>
-            <li><span>Email: </span>info@robocell.com</li>
-            <li><span>Website: </span>www.robocell.com</li>
+          <li><span>Address: </span>NIT Durgapur, West Bengal, India - 713209</li> 
+            <li><span>Phone Number: </span>+91 8850136026</li>
+            <li><span>Email: </span>rcnitdgp@gmail.com</li>
+            <li><span>Website: </span>www.robocell.tk</li>
           </ul>
         </div>   
       </div>
@@ -96,7 +93,7 @@
     <div class="copyright-section">
       <div class="row">
         <div class="col-md-12">
-          <p > &copy; 2016 ROBOCELL - All Rights Reserved <span style="float:right;"> Designed & Developed by ROBOCELL </span> </p>
+          <p > &copy; 2018 ROBOCELL - All Rights Reserved <span style="float:right;"> Designed & Developed by ROBOCELL </span> </p>
         </div>
         <!-- .col-md-6 -->
       </div>

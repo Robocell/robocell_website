@@ -8,10 +8,10 @@
         <div class="col-md-7">
           <!-- Start Contact Info -->
           <ul class="contact-details">
-            <li><a href="#"><em class="fa fa-map-marker"></em> MG ROAD ,NIT DURGAPUR ,WEST BENGAL, INDIA 713209</a> </li>
-            <li><a href="https://www.facebook.com/groups/108249746199591/?ref=bookmarks" target="blank"><i class="fa fa-facebook"></i> facebook.com/robocell</a>
+            <li><a href="#"><em class="fa fa-map-marker"></em> M.G. ROAD, NIT DURGAPUR, WEST BENGAL, INDIA 713209</a> </li>
+            <li><a href="https://www.facebook.com/RobocellNITDgp/" target="blank"><i class="fa fa-facebook"></i> facebook.com/robocell</a>
             </li>
-            <li><a href="#"><i class="fa fa-phone"></i> +91 999999999999</a>
+            <li><a href="#"><i class="fa fa-phone"></i> +91 8850136026</a>
             </li>
           </ul>
           <!-- End Contact Info -->
@@ -24,13 +24,10 @@
               <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" target="blank" href="https://www.facebook.com/groups/108249746199591/?ref=bookmarks"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
-              <a class="twitter itl-tooltip" data-placement="bottom" title="Twitter"  target="blank" href="#"><i class="fa fa-twitter"></i></a>
+              <a class="instagram itl-tooltip" data-placement="bottom" title="Instagram" target="blank" href="https://www.instagram.com/robocellnitdgp/"><i class="fa fa-instagram"></i></a>
             </li>
             <li>
-              <a class="google itl-tooltip" data-placement="bottom" title="Google Plus" target="blank" href="#"><i class="fa fa-google-plus"></i></a>
-            </li>
-            <li>
-              <a class="youtube itl-tooltip" data-placement="bottom" title="Youtube" target="blank" href="#"><i class="fa fa-youtube"></i></a>
+              <a class="youtube itl-tooltip" data-placement="bottom" title="Youtube" target="blank" href="https://www.youtube.com/channel/UCrKbVHAMV8lkh25pck7RdcQ"><i class="fa fa-youtube"></i></a>
             </li>
             <!--
             <li>
@@ -92,7 +89,7 @@
         <!-- Start Navigation List -->
         <ul class="nav navbar-nav navbar-right">
           <li>
-            <a class="active" href="index.html">Home</a>
+            <a class="active" href="index.php">Home</a>
             <!--<ul class="dropdown">
               <li><a class="active" href="index.html">Home Main Version</a>
               </li>
@@ -130,39 +127,25 @@
          
           
           <li>
-            <a href="portfolio-3.html">Robo Gallery</a>
+            <a href="gallery.php">Robo Gallery</a>
           </li>
-          <li>
-            <a href="blog.html">Blog</a>
-            <!--
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-            -->
-          </li>
-           <li><a href="#">Resourses</a>
+          
+          <li><a href="#">Resourses</a>
            <ul class="dropdown">
             <li role="separator" class="divider"></li>
               <li><strong>Tutorials</strong></li>
-               <li><a href="about.html">Mechanical bots</a>
+               <li><a href="manual.php">Mechanical bots</a>
               </li>
-              <li><a href="services.html">Semi-Autonomous bots</a>
+              <li><a href="semi_autonomous.php">Semi-Autonomous bots</a>
               </li>
-              <li><a href="right-sidebar.html">Autonomous Bots</a>
+              <li><a href="autonomous.php">Autonomous Bots</a>
               </li>
                <li role="separator" class="divider"></li>
-              <li><a href="#"><strong>Online Robotics Shops </strong></a></li>
-               <li role="separator" class="divider"></li>
-              <li><a href="#"><strong> Useful Links </strong></a></li>
+              <li><a href="links.php"><strong> Useful Links </strong></a></li>
              </ul>
           </li>
           <li>
-            <a href="portfolio-3.html">Workshops</a>
+            <a href="workshops.php">Workshops</a>
             <!--
             <ul class="dropdown">
               <li><a href="portfolio-2.html">2 Columns</a>
@@ -182,17 +165,9 @@
             <ul class="dropdown">
              <li role="separator" class="divider"></li>
               <li><strong>NIT DURGAPUR</strong></li>
-              <li><a href="tabs.html">ROBOCITY'16</a>
+              <li><a href="robocity.php">Robocity'18</a>
               </li>
-              <li><a href="buttons.html">AAROHAN'17</a>
-              </li>
-               <li role="separator" class="divider"></li>
-              <li><strong>OTHER FESTS</strong></li>
-              <li><a href="action-box.html">TECHFEST'17</a>
-              </li>
-              <li><a href="testimonials.html">TECHNICHE'16</a>
-              </li>
-              <li><a href="latest-posts.html">KSHITIJ'17</a>
+              <li><a href="aarohan.php">Aarohan'19</a>
               </li>
               <!--
               <li><a href="latest-projects.html">Latest Projects</a>
@@ -216,7 +191,7 @@
     <!-- Mobile Menu Start -->
     <ul class="wpb-mobile-menu">
          <li>
-            <a class="active" href="index.html">Home</a>
+            <a class="active" href="index.php">Home</a>
             <!--<ul class="dropdown">
               <li><a class="active" href="index.html">Home Main Version</a>
               </li>
@@ -254,39 +229,25 @@
          
           
       <li>
-            <a href="portfolio-3.html">Robo Gallery</a>
+            <a href="gallery.php">Robo Gallery</a>
       </li>
-          <li>
-            <a href="blog.html">Blog</a>
-            <!--
-            <ul class="dropdown">
-              <li><a href="blog.html">Blog - right Sidebar</a>
-              </li>
-              <li><a href="blog-left-sidebar.html">Blog - Left Sidebar</a>
-              </li>
-              <li><a href="single-post.html">Blog Single Post</a>
-              </li>
-            </ul>
-            -->
-          </li>
+          
       <li><a href="#">Resourses</a>
            <ul class="dropdown">
            
               <li><a><strong>Tutorials</strong></a></li>
-               <li><a href="about.html">Mechanical bots</a>
+               <li><a href="manual.php">Mechanical bots</a>
               </li>
-              <li><a href="services.html">Semi-Autonomous bots</a>
+              <li><a href="semi_autonomous.php">Semi-Autonomous bots</a>
               </li>
-              <li><a href="right-sidebar.html">Autonomous Bots</a>
+              <li><a href="autonomous.php">Autonomous Bots</a>
               </li>
-               <li role="separator" class="divider"></li>
-              <li><a href="#"><strong>Online Robotics Shops </strong></a></li>
                <li role="separator" class="divider"></li>
               <li><a href="#"><strong> Useful Links </strong></a></li>
         </ul>
           </li>
           <li>
-            <a href="portfolio-3.html">Workshops</a>
+            <a href="workshops.php">Workshops</a>
             <!--
             <ul class="dropdown">
               <li><a href="portfolio-2.html">2 Columns</a>
@@ -306,18 +267,11 @@
             <ul class="dropdown">
             
               <li><a><strong>NIT DURGAPUR</strong></a></li>
-              <li><a href="tabs.html">ROBOCITY'16</a>
+              <li><a href="robocity.php">Robocity'18</a>
               </li>
-              <li><a href="buttons.html">AAROHAN'17</a>
+              <li><a href="aarohan.php">Aarohan'19</a>
               </li>
                
-              <li><a><strong>OTHER FESTS</strong></a></li>
-              <li><a href="action-box.html">TECHFEST'17</a>
-              </li>
-              <li><a href="testimonials.html">TECHNICHE'16</a>
-              </li>
-              <li><a href="latest-posts.html">KSHITIJ'17</a>
-              </li>
               <!--
               <li><a href="latest-projects.html">Latest Projects</a>
               </li>

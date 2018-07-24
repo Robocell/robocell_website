@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <!-- Page Description and Author -->
-<meta name="description" content="ROBOCELL  |CCA NITDGP">
+<meta name="description" content="ROBOCELL | CCA NITDGP">
 <meta name="author" content="iThemesLab">
 
 <!-- Bootstrap CSS  -->

@@ -40,13 +40,12 @@
 									<div class="slider-content">
 										<div class="col-md-12 text-center">
 											<h2 class="animated2">
-												<span>Welcome to <strong>ROBOCELL</strong></span>
+												<span><font face="Desire" color="Yellow"> Welcome to <strong>ROBOCELL</strong> </font> </span>
 											</h2>
 											<h3 class="animated3">
-												<span>Official Robotics CLub OF NIT Durgapur</span>
+												<span> <font color="Red"> <strong> Official Robotics CLub OF NIT Durgapur</strong> </font> </span>
 											</h3>
-											<p class="animated4"><a href="#" class="slider btn btn-system btn-large">CHECKOUT EVENTS</a>
-											</p>
+											
 										</div>
 									</div>
 								</div>
@@ -56,13 +55,12 @@
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated4">
-													<span>We At <strong>NIT DURGAPUR</strong> <br><br> Provides Students A Chance </span>
+													<span><font face="Desire" color="Yellow">We, At <strong>NIT DURGAPUR,</strong> <br><br> Provide Students A Chance </font></span>
 												</h2>
 												<h3 class="animated4">
-													<span><strong>To Design And Deliver Robots</strong></span>
+													<span><font color="Red"><strong>To Design And Deliver Robots</strong></font></span>
 												</h3>
-												<p class="animated6"><a href="#" class="slider btn btn-system btn-large">CHECKOUT WORKSHOPS</a>
-												</p>
+												
 											</div>
 										</div>
 								</div>
@@ -72,14 +70,12 @@
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated7 white">
-													<span>Here You Can Learn Concepts Of <br> <br><strong>Robotics </strong></span>
+													<span> <font face="Desire" color="Yellow"> Here You Can Learn Concepts Of <br> <br><strong>Robotics </strong> </font></span>
 												</h2>
 												<h3 class="animated8 white">
-													<span>NO Prior Experience Required, <strong>Enthusiam </strong>Is All We Need</span>
+													<span><font face="Desire" color="Red">NO Prior Experience Required, <strong>Enthusiasm </strong>Is All We Need </font></span>
 												</h3>
-												<div class="">
-													<a class="animated4 slider btn btn-default btn-min-block" href="#">LEARN TO MAKE BOTS</a>
-												</div>
+												
 											</div>
 										</div>
 								</div>
@@ -100,760 +96,346 @@
 				<!-- End Home Page Slider -->
 
 
-					<!-- Start Services Section -->
-					<div class="section service">
-						<div class="container">
 
-							<div  class="big-title text-center" >
-								<h1><strong>About Us</strong></h1>
-								<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+				<!-- Start Services Section -->
+				<div class="section service">
+					<div class="container">
+						<div  class="big-title text-center" >
+							<h1><strong> <font face="Tahoma" size="6" color="Black"> ABOUT US</strong> </font> </h1>
+							<p><font size="3" color="Black" > The Robocell is the group of people who take care of the Robotics and it is the sole society which promotes and deals with the science of robots in our college. It organizes several workshops, competitions and events in Aarohan as well as otherwise. 
+							Other than these, the cell members also build and promote robotics and automation-related projects. </p> </font>
+
+						</div>
+					<div  class="big-title text-center" >
+						<h1><font face="Tahoma" size="6" color="Black"><strong>VISION OF OUR CELL</strong></font></h1>
+						<p><font size="3" COLOR="Black">The Robocell has a single goal: to popularize and spread awareness about Robotics.
+						In the current era, where tecnology changes are rapid, it becomes imperative to stay updated. Thus, we organize workshops to teach, and competitions to reward those who take interest in this latest science.
+						We  aim to use robotics and our creativity to do something positive for our soceity and nation. </p> </font>
+																										
+
+					</div>
+					
+					<div class="row">
+						<!-- Start Service Icon 1 -->
+						<div class="col-md-3 col-sm-6 service-box service-center col-lg-offset-3" data-animation="fadeIn" data-animation-delay="01">
+							<div class="service-icon">
+								<i class="fa fa-trophy icon-large"></i>
 							</div>
-								<div class="row">
-
-									<!-- Start Service Icon 1 --><!-- End Service Icon 1 -->
-
-									<!-- Start Service Icon 2 -->
-
-									<!-- End Service Icon 2 -->
-
-									<!-- Start Service Icon 3 -->
-									<div class="col-md-3 col-sm-6 service-box service-center col-lg-offset-3" data-animation="fadeIn" data-animation-delay="01">
-										<div class="service-icon">
-											<i class="fa fa-trophy icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">EVENTS</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-									<!-- End Service Icon 3 -->
-
-									<!-- Start Service Icon 4 -->
-									<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
-										<div class="service-icon">
-											<i class="fa fa-code icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">TUTORIALS</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-									<!-- End Service Icon 4 -->
-
-									<!-- Start Service Icon 5 -->
-
-									<!-- End Service Icon 5 -->
-
-									<!-- Start Service Icon 6 -->
-
-									<!-- End Service Icon 6 -->
-
-									<!-- Start Service Icon 7 -->
-									<div class="col-md-3 col-sm-6 service-box service-center col-lg-3 col-lg-offset-3" data-animation="fadeIn" data-animation-delay="02">
-										<div class="service-icon">
-											<i class="fa fa-gears icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">WORKSHOPS</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-														<!-- End Service Icon 7 -->
-
-														<!-- Start Service Icon 8 -->
-									<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
-										<div class="service-icon">
-											<i class="fa fa-umbrella icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">Help & Support</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-														<!-- End Service Icon 8 -->
-
-									<div class="col-md-3 col-sm-6 service-box service-center col-lg-offset-3 col-md-offset-3" data-animation="fadeIn" data-animation-delay="03">
-										<div class="service-icon">
-											<i class="fa fa-bolt icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">ENCOURAGE OTHERS</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-
-
-									<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="03">
-										<div class="service-icon">
-											<i class="fa fa-pencil-square-o icon-large"></i>
-										</div>
-										<div class="service-content">
-											<h4><a href="#">Leave Suggestions</a></h4>
-											<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat Lorem pariatur</p>
-										</div>
-									</div>
-
-								</div>
-													<!-- .row -->
-						</div>
-												<!-- .container -->
-					</div>
-											<!-- End Services Section -->
-
-
-											<!-- Start Purchase Section -->
-					<div class="section purchase">
-						<div class="container">
-
-							<!-- Start Video Section Content -->
-							<div class="section-video-content text-center">
-
-								<!-- Start Animations Text -->
-								<h1 class="fittext wite-text uppercase tlt">
-									<span class="texts">
-										<span>make MECHANICAL</span>
-										<span>make SEMI-AUTONOMOUS</span>
-										<span>make AUTONOMOUS</span>
-									</span>
-									bots with us <br/>participate in our workhops <strong>as well as</strong> events
-								</h1>
-								<!-- End Animations Text -->
-
-
-								<!-- Start Buttons -->
-								<a href="#" class="btn-system btn-large"><i class="fa fa-tasks"></i> Check Out upcoming workshops</a>
-								<a href="#" class="btn-system btn-large btn-wite"><i class="fa fa-download"></i> learn to make bots</a>
-
+							<div class="service-content" id="float1">
+								<h4><a href="aarohan.php">EVENTS</a></h4>
+								<p><font size="3">RoboCity, Armageddon, Robo Wars. You say it, we've got it!</p> </font>
 							</div>
-							<!-- End Section Content -->
-
 						</div>
-						<!-- .container -->
-					</div>
-											<!-- End Purchase Section -->
+						<!-- End Service Icon 1 -->
 
-
-											<!-- Start Portfolio Section -->
-					<div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
-
-						<!-- Start Big Heading -->
-						<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
-							<h1>EVENTS IN <strong>2016-17 SESSION</strong></h1>
+						<!-- Start Service Icon 2 -->
+						<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="01">
+							<div class="service-icon">
+								<i class="fa fa-code icon-large"></i>
+							</div>
+							<div class="service-content" id="float2">
+								<h4><a href="semi_autonomous.php">TUTORIALS</a></h4>
+								<p> <font size="3"> Wanna learn something new? Wanna build something to make your friends jealous? Check out our tutorials to do just that!</p> </font>
+							</div>
 						</div>
-						<!-- End Big Heading -->
 
-						<p class="text-center">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-							<br/>veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
-
-
-						<!-- Start Recent Projects Carousel -->
-						<ul id="portfolio-list" data-animated="fadeIn">
-							<li><a href="#"><i class="more">+</i></a>
-
-							</li>
-							<li>
-								<img src="images/portfolio-1/2.png" alt="" />
-								<div class="portfolio-item-content">
-									<span class="header">ROBOCITY</span>
-									<p class="body">OCTOBER 2016</p>
-								</div>
-								<a href="#"><i class="more">GO</i></a>
-
-							</li>
-							<li>
-								<img src="images/portfolio-1/3.png" alt="" />
-								<div class="portfolio-item-content">
-									<span class="header">AAROHAN</span>
-									<p class="body">FEBRUARY 2017</p>
-								</div>
-								<a href="#"><i class="more">GO</i></a>
-
-							</li>
-							<li><a href="#"><em class="more">+</em></a>
-
-							</li>
-						</ul>
-
-						<!-- End Recent Projects Carousel -->
+						<!-- End Service Icon 2 -->
+						<div class="col-md-3 col-sm-6 service-box service-center col-lg-3 col-lg-offset-3" data-animation="fadeIn" data-animation-delay="02">
+							<div class="service-icon">
+								<i class="fa fa-gears icon-large"></i>
+							</div>
+							<div class="service-content" id="float3">
+								<h4><a href="workshops.php">WORKSHOPS</a></h4>
+								<p> <font size="3"> Manual, Semi-Autonomous or Autonomous, we build everything. Check out our Workshops to participate and get hands-on learning experience. </font> </p> 
+							</div>
+						</div>
+			
+						<!-- Start Service Icon 8 -->
+						<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
+							<div class="service-icon">
+								<i class="fa fa-umbrella icon-large"></i>
+							</div>
+							<div class="service-content">
+								<h4><a href="contact.php">Help & Support</a></h4>
+								<p><font size="3"> Need our Help? Click on to get our expert suggestions.</font> </p>
+									</div>
+							</div>
+						</div>
+					<!-- .row -->
 					</div>
+				<!-- .container -->
+				</div>
+			<!-- End Services Section -->
+
+			<!-- Start Portfolio Section -->
+			<div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
+
+				<!-- Start Big Heading -->
+				<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
+					<h1><font face="Tahoma" size="6"> EVENTS IN <strong>2018-19 SESSION</strong></font></h1>
+				</div>
+				<!-- End Big Heading -->
+
+				<p class="text-center"> <font size="2">This year is full of exciting events organized by our Robocell. Like the previous years, there will be a selection of fun-filled events. Only that in the current session, they will be more competitive and up to date with our time.
+				<br/>Do join us to participate, compete and win loads of goodies!</p> </font>
+
+
+			<!-- Start Recent Projects Carousel -->
+			<ul id="portfolio-list" data-animated="fadeIn">
+				<li><a href="#"><i class="more">+</i></a>
+
+				</li>
+				<li>
+					<img src="images/robocity1.jpg" alt="" />
+		
+					<a href="robocity.php"><i class="more">GO</i></a>
+				</li>																								
+				<li>
+					<img src="images/aarohan.jpeg" alt="" />
+		
+					<a href="aarohan.php"><i class="more">GO</i></a>
+
+				</li>
+				<li><a href="#"><em class="more">+</em></a>
+
+				</li>
+			</ul>
+
+			<!-- End Recent Projects Carousel -->
+
+					
 											<!-- End Portfolio Section -->
-
+</div>
 
 											<!-- Start Testimonials Section -->
 					<div>
 						<div class="container">
 							<div class="row">
-								<div class="col-md-8">
+								<div class="col-md-10">
 
 									<!-- Start Recent Posts Carousel -->
 									<div class="latest-posts">
 										<h4 class="classic-title"><span>UPCOMING WORKSHOPS</span></h4>
 										<div class="latest-posts-classic custom-carousel touch-carousel" data-appeared-items="2">
-
 											<!-- Posts 1 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">28</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-gears"></i></div>
+												<div class="post-row item">
+													<div class="left-meta-post">
+														<div class="post-date"><span class="day">22</span><span class="month">Sept</span></div>
+															<div class="post-type"><i class="fa fa-mobile"></i></div>
+													</div>
+														<h3 class="post-title"><a href="semi_autonomous.php">Semi-Autonomous Robot</a></h3>
+													<div class="post-content">
+															<p>This workshop aims to build a semi-autonomous bot that can be controlled remotely but also uses a variety of sensors. <a class="read-more" href="workshops.php">Read More...</a></p>
 												</div>
-												<h3 class="post-title"><a href="#">mecahnical bot</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
-											</div>
+										</div>
 
 											<!-- Posts 2 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-mobile"></i></div>
+												<div class="post-row item">
+													<div class="left-meta-post">
+														<div class="post-date"><span class="day">23</span><span class="month">Sept</span></div>
+															<div class="post-type"><i class="fa fa-laptop"></i></div>
+														</div>
+															<h3 class="post-title"><a href="autonomous.php">Autonomous Robot</a></h3>
+														<div class="post-content">
+																<p> The aim of this workshop is to build an Autonomous robot having line-following, obstacle-avoiding and edge-avoiding abilities. <a class="read-more" href="workshops.php">Read More...</a></p>
+													</div>
 												</div>
-												<h3 class="post-title"><a href="#">semi autonomous bot</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
-											</div>
 
 											<!-- Posts 3 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-laptop"></i></div>
-												</div>
-												<h3 class="post-title"><a href="#">autonomous bot</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
-											</div>
+												<div class="post-row item">
+													<div class="left-meta-post">
+														<div class="post-date"><span class="day">22</span><span class="month">Jan</span></div>
+															<div class="post-type"><i class="fa fa-gears"></i></div>
+													</div>
+														<h3 class="post-title"><a href="manual.php">Manually-controlled Robot</a></h3>
+														<div class="post-content">
+															<p>In this workshop we build a manually-controlled all-wheel drive bot having a hand mechanism to grip things. <a class="read-more" href="workshops.php">Read More...</a></p>
+														</div>
+													</div>
 
-											<!-- Posts 4 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-picture-o"></i></div>
 												</div>
-												<h3 class="post-title"><a href="#">image processing</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
-											</div>
 
-											<!-- Posts 5 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-picture-o"></i></div>
-												</div>
-												<h3 class="post-title"><a href="#">Standard Post without Image</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
+																											
 											</div>
-
-											<!-- Posts 6 -->
-											<div class="post-row item">
-												<div class="left-meta-post">
-													<div class="post-date"><span class="day">26</span><span class="month">Dec</span></div>
-													<div class="post-type"><i class="fa fa-picture-o"></i></div>
-												</div>
-												<h3 class="post-title"><a href="#">Iframe Audio Post</a></h3>
-												<div class="post-content">
-													<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit. <a class="read-more" href="#">Read More...</a></p>
-												</div>
-											</div>
-
 										</div>
 									</div>
-									<!-- End Recent Posts Carousel -->
-
-								</div>
-
-								<div class="col-md-4">
-
-									<!-- Classic Heading -->
-									<h4 class="classic-title"><span>Testimonials</span></h4>
-
-									<!-- Start Testimonials Carousel -->
-									<div class="custom-carousel show-one-slide touch-carousel" data-appeared-items="1">
-										<!-- Testimonial 1 -->
-										<div class="classic-testimonials item">
-											<div class="testimonial-content">
-												<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-											</div>
-											<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-										</div>
-										<!-- Testimonial 2 -->
-										<div class="classic-testimonials item">
-											<div class="testimonial-content">
-												<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-											</div>
-											<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-										</div>
-										<!-- Testimonial 3 -->
-										<div class="classic-testimonials item">
-											<div class="testimonial-content">
-												<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-											</div>
-											<div class="testimonial-author"><span>John Doe</span> - Customer</div>
-										</div>
-									</div>
-									<!-- End Testimonials Carousel -->
-
 								</div>
 							</div>
-						</div>
-					</div>
+						
+					
 											<!-- End Testimonials Section -->
 
 
 											<!-- Start Team Member Section -->
 					<div class="section" style="background:#fff;">
-						<div class="container">
-
-							<!-- Start Big Heading -->
-							<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
-								<h1>Our <strong>team</strong></h1>
-							</div>
-							<!-- End Big Heading -->
-
-							<!-- Some Text -->
-							<p class="text-center">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium 
-								<span class="accent-color sh-tooltip" data-placement="right" title="Simple Tooltip">
-									doloremque laudantium
-								</span>
-								, totam rem aperiam, eaque ipsa quae ab illo inventore
-								<br/>
-								veritatis et quasi 
-								<span class="accent-color sh-tooltip" data-placement="bottom" title="Simple Tooltip">
-									architecto
-								</span>
-								beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-							</p>
-
-
-													<!-- Start Team Members -->
-							<div class="row">
-								<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="02">
-								</div>
-														<!-- Start Memebr 1 -->
-								<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="02">
-									<div class="team-member modern">
-										<!-- Memebr Photo, Name & Position -->
-										<div class="member-photo">
-											<img alt="" src="images/our team/deepak_kumar_singh.jpg" />
-											<div class="member-name">Deepak Kumar Singh<span>Head</span>
-											</div>
-										</div>
-										<!-- Memebr Words -->
-										<div class="member-info">
-										</div>
-										<!-- Start Progress Bar 1 -->
-										<div class="progress-label">Mechanical Engineering, B.Tech</div>
-										<div class="progress">
-											<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-												<span class="percentage"></span>
-											</div>
-										</div>
-										<!-- Start Progress Bar 2 -->
-										<div class="progress-label">NIT Durgapur</div>
-										<div class="progress">
-											<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-												<span class="percentage"></span>
-											</div>
-										</div>
-										<!-- Memebr Social Links -->
-										<div class="member-socail">
-											<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-											<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-										</div>
-									</div>
-								</div>
-														<!-- End Memebr 1 -->
-
-														<!-- Start Memebr 2 -->
-								<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="02">
-									<div class="team-member modern">
-										<!-- Memebr Photo, Name & Position -->
-										<div class="member-photo">
-											<img alt="" src="images/our team/kantamani_satyasri.jpg" />
-											<div class="member-name">Kantamani Satyasri<span>Head</span>
-											</div>
-										</div>
-										<!-- Memebr Words -->
-										<div class="member-info">
-										</div>
-										<!-- Start Progress Bar 1 -->
-										<div class="progress-label">Electrical Engineering, B.Tech</div>
-										<div class="progress">
-											<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-												<span class="percentage"></span>
-											</div>
-										</div>
-										<!-- Start Progress Bar 2 -->
-										<div class="progress-label">NIT Durgapur</div>
-										<div class="progress">
-											<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-												<span class="percentage"></span>
-											</div>
-										</div>
-										<!-- Memebr Social Links -->
-										<div class="member-socail">
-											<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-											<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-											<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-
-																											<!--
-																<a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-																<a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-																-->
-										</div>
-									</div>
-								</div>
-														<!-- End Memebr 2 -->
-								<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="02">
-								</div>
-
-													<?php /*<!-- Start Memebr 3 -->
-															<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-															<div class="team-member modern">
-																<!-- Memebr Photo, Name & Position -->
-																<div class="member-photo">
-																<img alt="" src="images/team/face_4.png" />
-																<div class="member-name">Lokesh Nandanwar <span>Member</span>
-																</div>
-																</div>
-																<!-- Memebr Words -->
-																<div class="member-info">
-																</div>
-																<!-- Start Progress Bar 1 -->
-																<div class="progress-label">Student of B.Tech, Information Technology</div>
-																<div class="progress">
-																<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																	<span class="percentage"></span>
-																</div>
-																</div>
-																<!-- Start Progress Bar 2 -->
-																<div class="progress-label">NIT Durgapur</div>
-																<div class="progress">
-																<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																	<span class="percentage"></span>
-																</div>
-																</div>
-																<!-- Memebr Social Links -->
-																<div class="member-socail">
-																<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-																
-																<!--
-																<a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-																<a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-																-->
-																</div>
-															</div>
-															</div>
-															<!-- End Memebr 3 -->
-
-															<!-- Start Memebr 4 -->
-															<div class="col-md-3 col-sm-6 col-xs-12" data-animation="fadeIn" data-animation-delay="04">
-															<div class="team-member modern">
-																<!-- Memebr Photo, Name & Position -->
-																<div class="member-photo">
-																<img alt="" src="images/team/face_4.png" />
-																<div class="member-name">Lokesh Nandanwar <span>Member</span>
-																</div>
-																</div>
-																<!-- Memebr Words -->
-																<div class="member-info">
-																</div>
-																<!-- Start Progress Bar 1 -->
-																<div class="progress-label">Student of B.Tech, Information Technology</div>
-																<div class="progress">
-																<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="400">
-																	<span class="percentage"></span>
-																</div>
-																</div>
-																<!-- Start Progress Bar 2 -->
-																<div class="progress-label">NIT Durgapur</div>
-																<div class="progress">
-																<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="800">
-																	<span class="percentage"></span>
-																</div>
-																</div>
-																<!-- Start Progress Bar 3 -->
-																<!--
-																<div class="progress-label">Vectors Design</div>
-																<div class="progress">
-																<div class="progress-bar progress-bar-primary" data-progress-animation="100%" data-appear-animation-delay="1200">
-																	<span class="percentage">100%</span>
-																</div>
-																</div>
-																-->
-																<!-- Memebr Social Links -->
-																<div class="member-socail">
-																<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-																<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-																<a class="gplus" href="#"><i class="fa fa-google-plus"></i></a>
-																
-																<!--
-																<a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-																<a class="mail" href="#"><i class="fa fa-youtube"></i></a>
-																-->
-																</div>
-															</div>
-															</div>
-															<!-- End Memebr 4 -->*/;
-													?>
-							</div>
-													<!-- End Team Members -->
-
-						</div>
-												<!-- .container -->
 					</div>
-											<!-- End Team Member Section -->
+						<div class="container">			
+<!--Start Clients Carousel-->
+<div class="recent-projects">
 
-											<!-- Start Pricing Table Section -->    <!-- End Pricing Table Section -->
+<div class="projects-carousel touch-carousel">
 
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox">
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/agnivesh_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Agnivesh Adhikari</h4>
+					<span> Dept. of CSE</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-											<!-- Start Client/Partner Section -->
-					<div class="partner">
-						<div class="container">
-							<div class="row">
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox">
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/vishal_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Vishal Mandley</h4>
+					<span>Dept. of MME</span>
 
-								<!-- Start Big Heading -->
-								<div class="big-title text-center">
-									<h1>Our <strong>MEMBERS</strong></h1>
-									<p class="title-desc">Which makes us LARGE</p>
-								</div>
-								<!-- End Big Heading -->
+				</a>
+			</div>
+		</div>
+	</div>
 
-								<!--Start Clients Carousel-->
-								<div class="recent-projects">
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox"  >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/indra_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Indrajeet Gajbhiye</h4>
+					<span>Dept. of ECE</span>
 
-									<div class="projects-carousel touch-carousel">
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox"  >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/swati_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Swati Kanchan</h4>
+					<span>Dept. of CSE</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Vishal Mandley</h4>
-														<span>Dept of MME</span>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox"  >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/lokesh_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Lokesh Nandanwar</h4>
+					<span>Dept. of IT</span>
 
-													</a>
-												</div>
-											</div>
-										</div>
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Indrajeet Gajbhiye</h4>
-														<span>Dept of ECE</span>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox">
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/rohan_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Rohan Chaudhury</h4>
+					<span>Dept. of ECE</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-													</a>
-												</div>
-											</div>
-										</div>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox"  >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/ananya_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Ananya Ghosh</h4>
+					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" title="This is an image title" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/abodh_bhaiya.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Abodh Prasad</h4>
+					<span>Dept. of MME</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/prachita_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Prachita Prachi</h4>
+					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
+	
+</div>
+</div>
+<!-- End Client/Partner Section -->
 
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-										<div class="portfolio-item item">
-											<div class="portfolio-border">
-												<div class="portfolio-thumb">
-													<a class="lightbox" title="This is an image title" href="images/portfolio-big-01.jpg">
-														<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-														<img alt="" src="images/portfolio-1/2.png" />
-													</a>
-												</div>
-												<div class="portfolio-details">
-													<a href="#">
-														<h4>Lorem Ipsum Dolor</h4>
-														<span>Logo</span>
-														<span>Animation</span>
-													</a>
-												</div>
-											</div>
-										</div>
-
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-											<!-- End Client/Partner Section -->
 			</div>
 
 			<!-- Start Footer Section -->
