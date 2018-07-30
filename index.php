@@ -173,12 +173,12 @@
 				<!-- Start Big Heading -->
 				<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
 					<h1><font face="Tahoma" size="6"> EVENTS IN <strong>2018-19 SESSION</strong></font></h1>
-				</div>
+			</div>
 				<!-- End Big Heading -->
-
-				<p class="text-center"> <font size="2">This year is full of exciting events organized by our Robocell. Like the previous years, there will be a selection of fun-filled events. Only that in the current session, they will be more competitive and up to date with our time.
+			<div class="col-md-12">
+				<p class="text-center"> <font size="3">This year is full of exciting events organized by our Robocell. Like the previous years, there will be a selection of fun-filled events. Only that in the current session, they will be more competitive and up to date with our time.
 				<br/>Do join us to participate, compete and win loads of goodies!</p> </font>
-
+			</div>
 
 			<!-- Start Recent Projects Carousel -->
 			<ul id="portfolio-list" data-animated="fadeIn">
@@ -237,7 +237,7 @@
 														</div>
 															<h3 class="post-title"><a href="autonomous.php">Autonomous Robot</a></h3>
 														<div class="post-content">
-																<p> The aim of this workshop is to build an Autonomous robot having line-following, obstacle-avoiding and edge-avoiding abilities. <a class="read-more" href="workshops.php">Read More...</a></p>
+																<p> The aim of this workshop is to build an Autonomous robot having line-following and obstacle-avoiding abilities. <a class="read-more" href="workshops.php">Read More...</a></p>
 													</div>
 												</div>
 

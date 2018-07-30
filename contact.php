@@ -57,11 +57,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
 
   if(!(empty($name) || empty($email) || empty($subject) || empty($message)))
   {
-    $mail = new PHPMailer(true);
+    /*$mail = new PHPMailer(true);
     try
     {
         //Server settings
-        $mail->SMTPDebug = 0;                                 // Enable verbose debug output
+       $mail->SMTPDebug = 0;                                 // Enable verbose debug output
         $mail->isSMTP();                                      // Set mailer to use SMTP
         $mail->Host = 'smtp.gmail.com;localhost';  // Specify main and backup SMTP servers
         $mail->SMTPAuth = true;                               // Enable SMTP authentication
@@ -97,7 +97,22 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
         echo 'Message could not be sent.\n';
         echo 'Mailer Error: ' . $mail->ErrorInfo;
     }
+  }*/
+  $con = mysqli_connect('localhost','root','','robocell',3306) or die("Server can't connect try again");
+  mysqli_select_db($con,'robocell') or die("database not found");
+  $s = "insert into response(name,email,subject,message) values('$name','$email','$subject','$message')";
+  $result = mysqli_query($con,$s) or die(mysqli_error($con));
+  if($result > 0)
+  {
+    $name = $email = $subject = $message = "";
+    $feedback = 'Thank you for the message. We will get in touch with you soon!';
   }
+  else
+  {
+    echo 'Message could not be sent.\n';
+    echo 'Mailer Error: ' . $mail->ErrorInfo;
+  }
+ }
 }
 //sleep(2);
 // header('location: contact.php');
