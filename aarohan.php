@@ -125,21 +125,22 @@
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1"> 
                 
-                  <p><font size="3" ><strong class="accent-color"><font color="Black"> Aarohan </font> </strong> is the Annual Techno-management fest of NIT Durgapur, the 2nd Largest of its kind in the whole of Eastern India. It is organised by a group of young enthusiasts under the supervision of highly responsible faculties. </p>
+                  <p><font size="4" ><strong class="accent-color"><font color="Black"> Aarohan </font> </strong> <font><font size="3"> is the Annual Techno-management fest of NIT Durgapur, the 2nd Largest of its kind in the whole of Eastern India. It is organised by a group of young enthusiasts under the supervision of highly responsible faculties. </p>
                   <p><font size="3" >Aarohan is not just a techno-management fest, it's a festival and this festival has been constantly fostering the enthusiastic students to showcase their talents and uplifting their spirits by taking parts in various events, and imbibing in them a sense of belonging to the competitive world that lies ahead, which we shall be continuing for years to come.</p>
                   <p><font size="3" >Aarohan has been leading the light of instilling a culture of science, technology and innovation among the youth of the nation. With more than 40 events covering all genres of technology and management, Aarohan brings some of the best solutions for the mankind to the fore.</p>
                   <p><font size="3" > Many great personalities, the likes of Dr. Sunil Handa, Professor at IIM-A and Founder of The Eklavya Foundation, Mr. Irfan Alam, founder of The Samman Foundation, Mr. R. Sriram, founder of CROSSWORD and Sramana Mitra, entrepreneur and strategy consultant at MIT have graced Aarohan with their enlightening presence.</p>
-                  <p><font size="3" ><strong class="accent-color"> <font color="Black">Event categories in Aarohan: </strong> </font></font></font></font></font></font></p> 
+                  <p><font size="4" ><strong class="accent-color"> <font color="Black">Event categories in Aarohan: </strong> </font></font></font></font></font></font></p> 
                   
                   <div class="col-md-12">
                       <ul class="icons-list">
+                      <font size="3">
                         <li><i class="fa fa-check-circle"></i> Technical Events</li>
                         <li><i class="fa fa-check-circle"></i> Paper and Poster Presentations</li>
                         <li><i class="fa fa-check-circle"></i> Fun Events</li>
                         <li><i class="fa fa-check-circle"></i> Short Movies and Photography </li>
                         <li><i class="fa fa-check-circle"></i> Inspiratie </li>
                         <li><i class="fa fa-check-circle"></i> Management and Entrepreneurship Events </li>
-                      </ul>
+                      </font></ul>
                       <hr>
                   </div>
       
@@ -167,25 +168,25 @@
                 <p> <font size="3"> There are several robotics related events in Aarohan and all of them are collectively called as Armageddon.</font> </p> 
 
                 <div class="tab-pane fade in active" id="tab-3">
-                  <p> <strong class="accent-color"> <font color="Black" size="3"> Events in Armageddon'18: </strong> </font></p>
+                  <p> <strong class="accent-color"> <font color="Black" size="4"> Events in Armageddon'18: </strong> </font></p>
                   <p> <font color="Black" size="3">Armageddon has variety of events testing different aspects of robotics. </font></p>
 
                   <div class="col-md-12">
                       <ul class="icons-list">
                       <font size="3">
                         <li><i class="fa fa-check-circle"></i> <strong >Manual Robotics Events: </strong> These include events which test simple applications of manual robotics like use of motors, gears and switches. The controls of these bots have to be precise. Since the teams compete among each other, winning these events is all about precision and timing. To excel, the participants need to have a proper control over their bot. </li>
-                        <p><font size="3">The bot itself has to be well constructed, having a perfect coordination among the individual parts. There are usually one or two events concerning manual robotics.</p>
-                        </font>
+                        <p>The bot itself has to be well constructed, having a perfect coordination among the individual parts. There are usually one or two events concerning manual robotics.</p>
+                      
                         <center> <img src="images/aarohan/Image_2.jpeg"> <img src="images/aarohan/Image_6.jpeg"></center> <br>
                         
                         
                         <li><i class="fa fa-check-circle"></i> <strong >Autonomous Robotics Events: </strong> The robot designed for these events needs to be able to navigate its way based upon inputs from sensors like infrared and ultrasonic sensors. The bot needs to be designed to work as a line follower and as a wall avoider/follower. </li> <br>
                         <center> <img src="images/aarohan/Image_3.jpeg"> </center> <br>
-                        <p> <font size="3">There are usually two rounds and the top performing teams of the first round get selected for the final round.  </p>
-                          </font>
+                        <p> There are usually two rounds and the top performing teams of the first round get selected for the final round.  </p>
+                      
                         <li><i class="fa fa-check-circle"></i> <strong >Robo Wars: </strong> Can you build a strong, indestructible robot which can survive attacks from the other robots? Are you confident that your robot is stronger than that of your opponents? Well, robowars is the event for you. </li> <br>
-                        <p> <font size="3">The two manual (or semi autonomous) bots collide against each other in a “war ring”. The bot which forces the other bot out of the ring is declared as winner.</p>
-                          </font>
+                        <p> The two manual (or semi autonomous) bots collide against each other in a “war ring”. The bot which forces the other bot out of the ring is declared as winner.</p>
+                    
                         <center> <img src="images/aarohan/Image_4.jpg"> </center> <br>
                         </font>
                       </ul>
@@ -209,7 +210,7 @@
                 </div>
                 
                 <div class="tab-pane fade in active" id="tab-5">
-                  <p> <font size="3"><strong class="accent-color"> So, </strong> </font> </p>
+                  <p> <font size="4"><strong class="accent-color"> So, </strong> </font> </p>
 
                   <div class="col-md-12">
                       <ul class="icons-list">

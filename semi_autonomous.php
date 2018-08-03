@@ -126,12 +126,13 @@
                 <div class="tab-pane fade in active" id="tab-1">
                   <center><img src="images/bluetooth/bluetooth.jpg"></center>
                   <hr/>
-                  <p><strong class="accent-color">Bluetooth-controlled Bot</strong> is a type of semi-autonomous robot controlled by using Android mobile phone instead of any other method like buttons, gesture etc. We only need to touch buttons on our Android phones to control the bot in forward, backward, leftward and rightward directions. The phone is used as the transmitting device while the Bluetooth module placed in the bot is used as the receiver. </p>
-                  <p>The components required to make this type of bot are: </p>
+                  <p><font size="4"><strong class="accent-color"><font color="Black">Bluetooth-controlled Bot</font></strong></font><font size="3"> is a type of semi-autonomous robot controlled by using Android mobile phone instead of any other method like buttons, gesture etc. We only need to touch buttons on our Android phones to control the bot in forward, backward, leftward and rightward directions. The phone is used as the transmitting device while the Bluetooth module placed in the bot is used as the receiver.</font> </p>
+                  <p><font size="4">The components required to make this type of bot are: </font></p>
                   
                   <div class="row">
                     <div class="col-md-6">
                       <ul class="icons-list">
+                      <font size="3">
                         <li><i class="fa fa-check-circle"></i> Arduino Uno</li> <img src="images/bluetooth/uno.jpg"> 
                         <li><i class="fa fa-check-circle"></i> DC Motors</li> <img src="images/bluetooth/motor.jpg"> 
                         <li><i class="fa fa-check-circle"></i> Bluetooth Module HC-05</li> <br> <img src="images/bluetooth/hc05.jpg"> <hr>
@@ -140,11 +141,12 @@
                         <li><i class="fa fa-check-circle"></i> Wheels</li> <br> <img src="images/bluetooth/wheels.jpg"> <hr>
                         <li><i class="fa fa-check-circle"></i> Chassis</li> <br> <img src="images/bluetooth/chassis.jpg">
                         <hr>  
-                      </ul> 
+                      </font></ul> 
                     </div>
 
                     <div class="col-md-6">
                       <ul class="icons-list">
+                      <font size="3">
                           <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg"> 
                           <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg"> <br>
                           <li><i class="fa fa-check-circle"></i> Thin and Long Nuts and Bolts</li> <br> <img src="images/bluetooth/screw.jpg"> <br> <br>
@@ -152,17 +154,18 @@
                           <li><i class="fa fa-check-circle"></i> Castor Wheel</li> <img src="images/bluetooth/castor.jpg"> <br>
                           <li><i class="fa fa-check-circle"></i> Android Smartphone with ArduinoRC app installed  from Play Store</li> <img src="images/bluetooth/phone.png"> <hr>
                           <li><i class="fa fa-check-circle"></i> Arduino data cable</li> <img src="images/bluetooth/cable.jpg">
-                      </ul>
+                      </font></ul>
                     </div>
                   </div>  
                   
                 <div class="tab-pane fade in active" id="tab-2">
                   
-                  <p><strong class="accent-color">About HC-05 module:  </strong> You can directly use the Bluetooth module after purchasing from the market because there is no need to change any setting of Bluetooth module. Default baud rate of new Bluetooth module is 9600 bps. You just need to connect 'rx' and 'tx' pins to the Arduino Uno and give 5V DC Regulated power supply to it.</p>
-                  <p>The pin connections of the HC-05 module are:</p>
+                  <p><font size="4"><strong class="accent-color">About HC-05 module:  </strong></font><font size="3"> You can directly use the Bluetooth module after purchasing from the market because there is no need to change any setting of Bluetooth module. Default baud rate of new Bluetooth module is 9600 bps. You just need to connect 'rx' and 'tx' pins to the Arduino Uno and give 5V DC Regulated power supply to it.</font></p>
+                  <p><font size="4">The pin connections of the HC-05 module are:</font></p>
                   
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <font size="3">
                       <li><i class="fa fa-check-circle"></i> State----> Open (Unconnected)</li>
                       <li><i class="fa fa-check-circle"></i> Rx----> Serial Receiving pin</li>
                       <li><i class="fa fa-check-circle"></i> Tx----> Serial Transmitting pin</li>
@@ -170,19 +173,20 @@
                       <li><i class="fa fa-check-circle"></i> VCC----> +5V DC Power Supply</li>
                       <li><i class="fa fa-check-circle"></i> EN----> To enter AT mode</li>
                       <hr>
-                    </ul>
+                    </font></ul>
                   </div>
                 </div>    
               </div>
                 
               <div class="tab-pane fade in active" id="tab-2">
                   
-                  <p><strong class="accent-color">We're now ready to start assembling our Semi-Autonomous Bot!</strong></p>
-                  <p>Follow these easy steps: </p>
+                  <p><font size="3"><strong class="accent-color">We're now ready to start assembling our Semi-Autonomous Bot!</strong></font></p>
+                  <p><font size="3">Follow these easy steps: </font></p>
                   <br>
                   
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <font size="3">
                       <li><i class="fa fa-check-circle"></i> First, fix up both the motors on the chassis with nuts and bolts and then the wheels and tighten it with screws, and at last, the castor wheel at the front bottom. After this, the bot will look somewhat as shown in figure below. </li> <br> <center><img src="images/bluetooth/state.jpg"></center> <br>
                       <li><i class="fa fa-check-circle"></i> Now place the Arduino board and motor driver over the chassis as shown in the above picture.</li>
                       <li><i class="fa fa-check-circle"></i> Connect all the hardwares using jumper wires as shown in the picture below. Use bread board to connect Bluetooth module to arduino. Check that no two wires intersect each other.</li> <center><img src="images/bluetooth/connections.jpg"></center> <br>
@@ -230,19 +234,20 @@
   }
                         </pre>
                         <hr>
-                    </ul>
+                        <font size="3"></ul>
                   </div>
               </div> 
               
               <div class="tab-pane fade in active" id="tab-2">
                   
-                  <p><strong class="accent-color">Customizing the Bluetooth module: </strong></p>
-                  <p> Now, you will be communicating with the Bluetooth module to set its name and password. For this purpose only, Tx of Bluetooth module is connected to Tx of Arduino and Rx is connected to Rx of Arduino so that Arduino can communicate with Bluetooth module.</p>
-                  <p>Follow these easy steps: </p>
+                  <p><font size="4"><strong class="accent-color">Customizing the Bluetooth module: </strong></font></p>
+                  <p> <font size="3">Now, you will be communicating with the Bluetooth module to set its name and password. For this purpose only, Tx of Bluetooth module is connected to Tx of Arduino and Rx is connected to Rx of Arduino so that Arduino can communicate with Bluetooth module.</font></p>
+                  <p><font size="3">Follow these easy steps: </font></p>
 
                   
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <font size="3">
                       <li><i class="fa fa-check-circle"></i> Open Arduino IDE software on your computer and connect your Arduino Uno to computer using its data cable. You will notice that Bluetooth module’s indicator red light flashes very fast. This is because it is not connected to any other device at present. </li>                      
                       <li><i class=" fa fa-check-circle"></i> If you have opened Arduino IDE for the first time, it will open up with a blank code. Now, go to Tools -> Board and select “Arduino/Genuino Uno”. Then, go to Tools -> Port and select “COM3”.
                         Now Upload that blank code to arduino by pressing the shortcut key “Ctrl +U”. </li>
@@ -253,15 +258,16 @@
                         <p> Now type AT+NAME= “ABC” and press enter. This command will set your device name to “ABC” so choose your name accordingly. If this command is accepted it will give “OK” in return.
                         Now type AT+PSWD= “1234” and press enter. This command will set your device password to “1234” so choose your password accordingly. If this command is accepted it will give “OK” in return.</p> 
                       <li><i class="fa fa-check-circle"></i> Now your Bluetooth module is configured to use. Now unplug Arduino data cable and you can plug it in directly next time when you need to upload your code.</li> <hr>
+                  </font></ul>
                   </div>
               </div>
 
               <div class="tab-pane fade in active" id="tab-2">
                   
-                  <p><strong class="accent-color">Coding your Bluetooth Bot: </strong></p>
-                  <p> Now you will be writing program to receive command from Android phone app via Bluetooth module and bot has to follow it. Explaination of code is given side by side with the code.</p>
+                  <p><font size="4"><strong class="accent-color">Coding your Bluetooth Bot: </strong></font></p>
+                  <p> <font size="3">Now you will be writing program to receive command from Android phone app via Bluetooth module and bot has to follow it. Explaination of code is given side by side with the code.</font></p>
 
-                  <pre>
+                  <pre><font size="3">
 #define rmp 3 //Replacing rmp with 3 every where in the program 
 #define rmn 5 //Same way as above
 #define lmp 6 //Same way as above
@@ -332,23 +338,26 @@ void st() //stop motion function definition
   digitalWrite(rmn,LOW);
   digitalWrite(rmp,LOW);
 }
+                  </font>
                   </pre>
                   <hr>
                 </div>
 
                 <div class="tab-pane fade in active" id="tab-2">
                   
-                    <p><strong class="accent-color">Customizing your Android app: </strong></p>
-                    <p> Only one thing separates you frm the fun of driving your Bluetooth-controlled Bot. You must configure your Android app so that your bot can understand the commands that are given to it.</p>
-                    <p> Here's how to do just that: </p>
+                    <p><font size="4"><strong class="accent-color">Customizing your Android app: </strong></font></p>
+                    <p> <font size="3">Only one thing separates you from the fun of driving your Bluetooth-controlled Bot. You must configure your Android app so that your bot can understand the commands that are given to it.</font></p>
+                    <p><font size="3"> Here's how to do just that: </font></p>
 
                     <div class="col-md-12">
                         <ul class="icons-list">
+                        <font size="3">
                           <li><i class="fa fa-check-circle"></i>Now turn on Bluetooth in your phone and open up “Arduino Bluetooth controller” app.</li>
                           <li><i class="fa fa-check-circle"></i> Select your bot name and pair it by entering your Bluetooth module password.</li> <br> <center><img src="images/bluetooth/keys.png"></center> <br>
                           <li><i class="fa fa-check-circle"></i> Then a dialog box will appear, select “Controller Mode”. There you will get the buttons on the screen. Now you have to assign a key or variable or number to the buttons, for this go to app settings and select keys.</li>
                           <li><i class="fa fa-check-circle"></i> Now comes the most important part of this tutorial.... return to the controller screen and enjoy driving your bot!</li>  
                           <hr>
+                        </font>
                         </ul>
                     </div>
                 </div>

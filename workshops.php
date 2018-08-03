@@ -123,31 +123,31 @@
               <div class="tab-content">
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1">
-                  <p><strong class="accent-color">RoboCell</strong> organizes several workshops throughout the year to promote and teach robotic and automation technology to the budding enthusiasts as well as those who are completely new to this stuff.  </p>
+                  <p><font size="3"><strong class="accent-color"><font color="Black">RoboCell</font></strong> organizes several workshops throughout the year to promote and teach robotic and automation technology to the budding enthusiasts as well as those who are completely new to this stuff.  </font></p>
                 </div>
               </div>
 
               <div class="tab-content">
                 <!-- Tab Content 2 -->
                 <div class="tab-pane fade in active" id="tab-1">
-                  <p><strong class="accent-color">Autonomous Robotics Workshop: </strong> </p>
+                  <p><font size="4"><strong class="accent-color">Autonomous Robotics Workshop: </strong></font> </p>
                     <p/>
-                  <li><i class="fa fa-check-circle"></i>  This workshop is usually the first to be organized each year. It is aimed at educating the participants about the autonomous robots, micro-controllers like the Arduino, the related sensors which are required such as the infra-red and ultrasound sensors and the data transmission techniques using Bluetooth and the RF modules.</li>
-                  <li><i class="fa fa-check-circle"></i>  It is usually spread over two days of the weekend in which the participants come in teams and the Robo cell members help them in building their robots. </li>  
-                  <li><i class="fa fa-check-circle"></i>  There is a nominal fee for this workshop for providing the take-away kits of the parts and sensors. The resultant bots are competent to participate in any autonomous competitive event.</li>
-                  <li><i class="fa fa-check-circle"></i>  Overall, it is a great learning experience and participating with friends is always fun!</li>  
+                  <li><i class="fa fa-check-circle"></i><font size="3">  This workshop is usually the first to be organized each year. It is aimed at educating the participants about the autonomous robots, micro-controllers like the Arduino, the related sensors which are required such as the infra-red and ultrasound sensors and the data transmission techniques using Bluetooth and the RF modules.</font></li>
+                  <li><i class="fa fa-check-circle"></i><font size="3">  It is usually spread over two days of the weekend in which the participants come in teams and the Robo cell members help them in building their robots.</font> </li>  
+                  <li><i class="fa fa-check-circle"></i><font size="3">  There is a nominal fee for this workshop for providing the take-away kits of the parts and sensors. The resultant bots are competent to participate in any autonomous competitive event.</font></li>
+                  <li><i class="fa fa-check-circle"></i><font size="3">  Overall, it is a great learning experience and participating with friends is always fun!</font></li>  
                      </div>
                 </div>
 
                 <div class="tab-content">
                 <!-- Tab Content 3 -->
                 <div class="tab-pane fade in active" id="tab-1">
-                  <p><strong class="accent-color">Manual Robotics Workshop: </strong> </p>
+                  <p><font size="4"><strong class="accent-color">Manual Robotics Workshop: </strong> </font></p>
                     <p/>
-                  <li><i class="fa fa-check-circle"></i>  This is the second workshop organized annually. It aims at teaching the participants about the manual robots and their various components such as motors, switches and gears.</li>
-                  <li><i class="fa fa-check-circle"></i>  This workshop is generally more popular due to the absence of any pre-requisite coding knowledge.  </li>  
-                  <li><i class="fa fa-check-circle"></i>  It is usually spread over two days of the weekend in which the participants come in teams and the Robo cell members help them in building their robots. There is a nominal fee for this workshop for providing the take-away kits of the parts. </li>
-                  <li><i class="fa fa-check-circle"></i>  The club members are available for answering any type of query and they pay personal attention to the progress of the teams. The resultant bots are competent to participate in any manual competitive event especially in Aarohan.</li>  
+                  <li><i class="fa fa-check-circle"></i> <font size="3"> This is the second workshop organized annually. It aims at teaching the participants about the manual robots and their various components such as motors, switches and gears.</font></li>
+                  <li><i class="fa fa-check-circle"></i><font size="3">  This workshop is generally more popular due to the absence of any pre-requisite coding knowledge. </font> </li>  
+                  <li><i class="fa fa-check-circle"></i> <font size="3"> It is usually spread over two days of the weekend in which the participants come in teams and the Robo cell members help them in building their robots. There is a nominal fee for this workshop for providing the take-away kits of the parts.</font> </li>
+                  <li><i class="fa fa-check-circle"></i> <font size="3"> The club members are available for answering any type of query and they pay personal attention to the progress of the teams. The resultant bots are competent to participate in any manual competitive event especially in Aarohan.</font></li>  
                 </div>
               </div>
               <!-- End Tab Panels -->

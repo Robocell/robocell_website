@@ -126,33 +126,35 @@
                 <div class="tab-pane fade in active" id="tab-1">
                   <center><img src="images/manual/bot.jpg"></center>
                   <hr/>
-                  <p><strong class="accent-color">Manual Bot: </strong> This kind bots does not have its own brain and are controlled by human.
+                  <p><font size="4"><strong class="accent-color"><font color="Black">Manual Bot: </font> </strong></font><font size="3"> This kind bots does not have its own brain and are controlled by human.
 This workshop focuses on building a manual bot which will be a 4 wheel drive bot and will also contain a hand mechanism. This will be a very basic manual bot and could be used in competing in the manual robotics events.
  </p>
-                  <p>The components required to make this type of bot are: </p>
+                  <p><font size="4">The components required to make this type of bot are: </font></font></p>
                   
                   <div class="row">
                     <div class="col-md-6">
                       <ul class="icons-list">
+                      <font size="3">
                         <li><i class="fa fa-check-circle"></i> 4pcs. 300rpm Motors</li>  <img src="images/manual/pic2.jpg"> <br>
                         <li><i class="fa fa-check-circle"></i> 1pc. 100rpm Motor</li> <img src="images/bluetooth/motor.jpg">  
                         <li><i class="fa fa-check-circle"></i> 1pc. 10rpm high-torque Motor</li> <img src="images/manual/motor.jpg">
                         <li><i class="fa fa-check-circle"></i> 6pcs. L-clamp</li> <img src="images/manual/clamp.jpg"> 
                         <li><i class="fa fa-check-circle"></i> Hub</li> <br> <img src="images/manual/hub.jpg">  
                         
-                        <hr>  
+                        <hr></font>  
                       </ul> 
                     </div>
 
                     <div class="col-md-6">
                       <ul class="icons-list">
+                      <font size="3">
                       <li><i class="fa fa-check-circle"></i> 4pcs. DPDT Switches</li> <br> <img src="images/manual/dpdt.jpg"> <br> <br>
                         <li><i class="fa fa-check-circle"></i> 1pc. 12V 2A Adapter</li> <br> <img src="images/manual/adapter.jpg">
                           <li><i class="fa fa-check-circle"></i> Spur Gear</li> <img src="images/manual/spur.jpg"> <br> <br>
                           <li><i class="fa fa-check-circle"></i> Worm Gear</li> <img src="images/manual/worm.jpg"> <br> <br>
                           <li><i class="fa fa-check-circle"></i> 4pcs. Wheels</li> <br> <img src="images/bluetooth/wheels.jpg"> <br> <br>
                          
-                          
+                          </font>
                       </ul>
                     </div>
                   </div>  
@@ -162,12 +164,13 @@ This workshop focuses on building a manual bot which will be a 4 wheel drive bot
                 
               <div class="tab-pane fade in active" id="tab-2">
                   
-                  <p><strong class="accent-color">We're now ready to start assembling our Manual Bot!</strong></p>
-                  <p>Follow these easy steps: </p>
+                  <p><font size="3"><strong class="accent-color">We're now ready to start assembling our Manual Bot!</strong></font></p>
+                  <p><font size="3">Follow these easy steps: </font></p>
                   
                   
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <font size="3">
                       
                       <li><i class="fa fa-check-circle"></i> As per the figure shown below place 4 L-Clamps on 4 corners of the chassis and fasten them up.</li> <br> <img src="images/manual/pic14.png"> <img src="images/manual/pic15.png"> <br>
                       <li><i class="fa fa-check-circle"></i> Now place the 300 RPM motors in the clamps such that the bodies are inside the platform and the shaft outside. Attach Wheels to the shaft and fasten them up. </li> <br>
@@ -177,7 +180,7 @@ This workshop focuses on building a manual bot which will be a 4 wheel drive bot
                         <br>
                       <li><i class="fa fa-check-circle"></i> Now for the hand mechanism, a wooden piece will be provided. Now place a L-Clamp on the top of the platform as per the instruction given by the RC member. </li>
                         
-                        
+                        </font>
                     </ul>
                   </div>
               </div> 
@@ -187,6 +190,7 @@ This workshop focuses on building a manual bot which will be a 4 wheel drive bot
                  
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <font size="3">
                       <li><i class="fa fa-check-circle"></i> Place the 10 RPM stepper in that L-Clamp such that the shaft is at the highest point.  </li> <br> <center> <img src="images/manual/pic17.png"> </center> <br>                    
                       <li><i class=" fa fa-check-circle"></i> Now attach the hub with the HTM L-Clamp and fix it with the wooden piece provided for hand as per instruction given by RC Member.  </li> <br> <center> <img src="images/manual/pic18.png"> </center> <br>
                         
@@ -198,6 +202,7 @@ This workshop focuses on building a manual bot which will be a 4 wheel drive bot
                       <li><i class="fa fa-check-circle"></i> Now attach a worm gear in the shaft and fix it up. </li>  
                       <li><i class="fa fa-check-circle"></i> Place 2 spur gears on adjacent side of the worm gear and mark the points make holes in them and place long screws in them such that the heads are in bottom. Place spur gears in them. </li> <br> <center> <img src="images/manual/pic20.png"> </center> <br>
                       <li><i class="fa fa-check-circle"></i> Now its on you to attach a customised hand mechanism on the spur gears with customised grippers. There, we have built our Manual Robot!</li> <hr>
+                  </font></ul>
                   </div>
               </div>
 
