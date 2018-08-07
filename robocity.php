@@ -80,6 +80,42 @@
           </div>
         </div>
 
+        <!-- Mobile Menu Start -->
+        <ul class="wpb-mobile-menu">
+          <li>
+            <a href="index.php">Home</a>
+            <a href="gallery.php">Gallery</a>
+          </li>
+          <li>
+            <a href="#">Resources</a>
+            <ul class="dropdown">
+              <li><a href="manual.php">Mechanical Bots</a>
+              </li>
+              <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
+              </li>
+              <li><a href="autonomous.php">Autonomous Bots</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="workshops.php">Workshops</a>
+            
+          </li>
+          <li>
+            <a class="active">Events</a>
+            <ul class="dropdown">
+              <li><a class="active" href="robocity.php">Robocity '18</a>
+              </li>
+              <li><a href="aarohan.php">Aarohan '19</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="contact.php">Contact</a>
+          </li>
+        </ul>
+        <!-- Mobile Menu End -->
+
         
       </div>
       <!-- End Header ( Logo & Naviagtion ) -->

@@ -192,41 +192,7 @@
     <ul class="wpb-mobile-menu">
          <li>
             <a class="active" href="index.php">Home</a>
-            <!--<ul class="dropdown">
-              <li><a class="active" href="index.html">Home Main Version</a>
-              </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul>
-          </li>
-          -->
-          <!--
-          <li>
-            <a href="about.html">Tutorials</a>
-            <ul class="dropdown">
-              <li><a href="about.html">Mechanical bots</a>
-              </li>
-              <li><a href="services.html">Semi-Autonomous bots</a>
-              </li>
-              <li><a href="right-sidebar.html">Autonomous Bots</a>
-              </li>
-              
-            </ul>
-          </li>
-          -->
-         
+        </li>
           
       <li>
             <a href="gallery.php">Robo Gallery</a>
@@ -242,46 +208,18 @@
               </li>
               <li><a href="autonomous.php">Autonomous Bots</a>
               </li>
-               <li role="separator" class="divider"></li>
-              <li><a href="#"><strong> Useful Links </strong></a></li>
-        </ul>
+            </ul>
           </li>
           <li>
             <a href="workshops.php">Workshops</a>
-            <!--
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.html">Single Project</a>
-              
-              </li>
-            </ul>
-            -->
           </li>
            <li>
             <a href="#">Events</a>
             <ul class="dropdown">
-            
-              <li><a><strong>NIT DURGAPUR</strong></a></li>
               <li><a href="robocity.php">Robocity'18</a>
               </li>
               <li><a href="aarohan.php">Aarohan'19</a>
               </li>
-               
-              <!--
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-              -->
             </ul>
           </li>
           <li><a href="contact.php">Contact Us</a>

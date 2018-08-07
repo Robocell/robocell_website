@@ -143,11 +143,111 @@ function test_input($data)
   <!-- Container -->
   <div id="container">
 
-    <!-- Start Header -->
-      <?php include("includes/header.php");?>
-      <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCpnQ9wtP6cpF-V-C51ovsSrX_qEI5Ao3E" type="text/javascript"></script>
-    <!-- End Header -->
+      <!-- Start Header -->
+    <div class="hidden-header"></div>
+    <header class="clearfix">
 
+      
+
+      <!-- Start Header ( Logo & Naviagtion ) -->
+      <div class="navbar navbar-default navbar-top">
+        <div class="container">
+          <div class="navbar-header">
+            <!-- Stat Toggle Nav Link For Mobiles -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+              <i class="fa fa-bars"></i>
+            </button>
+            <!-- End Toggle Nav Link For Mobiles -->
+            <a class="navbar-brand" href="index.html"><img alt="" src="images/robon.png"></a>
+          </div>
+          <div class="navbar-collapse collapse">
+            <!-- Stat Search -->
+            <div class="search-side">
+              <a class="show-search"><i class="fa fa-search"></i></a>
+              <div class="search-form">
+                <form autocomplete="off" role="search" method="get" class="searchform" action="#">
+                  <input type="text" value="" name="s" id="s" placeholder="Search the site...">
+                </form>
+              </div>
+            </div>
+            <!-- End Search -->
+            <!-- Start Navigation List -->
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                <a href="index.php">Home</a>
+              </li>
+              <li>
+                <a href="gallery.php">Robo Gallery</a>
+              </li>
+              <li>
+                <a href="#">Resources</a>
+                <ul class="dropdown">
+                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
+                  <li><a href="autonomous.php">Autonomous Bots</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="workshops.php">Workshops</a>
+                
+              </li>
+              <li>
+                <a href="#">Events</a>
+                <ul class="dropdown">
+                  <li><a href="robocity.php">RoboCity '19</a></li>
+                  <li><a href="aarohan.php">Aarohan '19</a></li>
+                  
+                </ul>
+              </li>
+              <li><a class ="active" href="contact.php">Contact Us</a></li>
+            </ul>
+            <!-- End Navigation List -->
+          </div>
+
+          <!-- Mobile Menu Start -->
+        <ul class="wpb-mobile-menu">
+          <li>
+            <a href="index.php">Home</a>
+            <a href="gallery.php">Gallery</a>
+          </li>
+          <li>
+            <a href="#">Resources</a>
+            <ul class="dropdown">
+              <li><a href="manual.php">Mechanical Bots</a>
+              </li>
+              <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
+              </li>
+              <li><a href="autonomous.php">Autonomous Bots</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="workshops.php">Workshops</a>
+            
+          </li>
+          <li>
+            <a>Events</a>
+            <ul class="dropdown">
+              <li><a href="robocity.php">Robocity '18</a>
+              </li>
+              <li><a href="aarohan.php">Aarohan '19</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a class="active" href="contact.html">Contact</a>
+          </li>
+        </ul>
+        <!-- Mobile Menu End -->
+
+
+        </div>
+      </div>
+      <!-- End Header ( Logo & Naviagtion ) -->
+      <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCpnQ9wtP6cpF-V-C51ovsSrX_qEI5Ao3E" type="text/javascript"></script>
+    </header>
+    <!-- End Header -->
+</div>
     <!-- Start Map -->
     <div id="map" data-position-latitude="23.5501715" data-position-longitude="87.2874672"></div>
     </div>
@@ -354,19 +454,21 @@ function test_input($data)
           <div class="col-md-4">
 
             <!-- Classic Heading -->
-            <h4 class="classic-title"><span>Information</span></h4>
+            <h4 class="classic-title"><span><font size="4" face="Bold" color="Black" style="Comic Sans MS" >Information </font></span></h4>
 
             <!-- Some Info -->
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum.</p>
+            <p> <font size="4" color="Black" style="Desire" face="Bold">Robocell is a part of Centre for Cognitive Activities, NIT Durgapur</font></p>
 
             <!-- Divider -->
             <div class="hr1" style="margin-bottom:10px;"></div>
 
             <!-- Info - Icons List -->
             <ul class="icons-list">
-              <li><i class="fa fa-globe">  </i> <strong>Address:</strong> 1234 Street Name, Bangladesh.</li>
-              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> info@yourcompany.com</li>
-              <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +12 345 678 001</li>
+            <font size="3">  
+              <li><i class="fa fa-globe">  </i> <strong>Address:</strong> National institute of Technology, Durgapur.</li>
+              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> rc-nitdgp.tk</li>
+              <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +91 8850136026</li>
+            </font>
             </ul>
 
 

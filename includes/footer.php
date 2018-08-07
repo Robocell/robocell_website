@@ -80,7 +80,7 @@
           <li><span>Address: </span>NIT Durgapur, West Bengal, India - 713209</li> 
             <li><span>Phone Number: </span>+91 8850136026</li>
             <li><span>Email: </span>rcnitdgp@gmail.com</li>
-            <li><span>Website: </span>www.robocell.tk</li>
+            <li><span>Website: </span>www.rc-nitdgp.tk</li>
           </ul>
         </div>   
       </div>
