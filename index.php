@@ -275,163 +275,31 @@
 
 <div class="projects-carousel touch-carousel">
 
+	<?php
+		$con = mysqli_connect('localhost','root','','robocell',3306) or die("Server can't connect try again");
+		mysqli_select_db($con,'robocell') or die("Database not found!!");
+		$s = "select * from member";
+		$result = mysqli_query($con,$s) or die(mysqli_error($con));
+		while($row = mysqli_fetch_assoc($result))
+		{
+  	?>
 	<div class="portfolio-item item">
 		<div class="portfolio-border">
 			<div class="portfolio-thumb">
 				<a class="lightbox">
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/agnivesh_bhaiya.jpg" />
+					<img alt="" src="images/members/<?php echo $row["img_src"]; ?>" />
 				</a>
 			</div>
 			<div class="portfolio-details">
 				<a href="#">
-					<h4>Agnivesh Adhikari</h4>
-					<span> Dept. of CSE</span>
+					<h4><?php echo $row["name"]; ?></h4>
+					<span> Dept. of <?php echo $row["department"]; ?></span>
 				</a>
 			</div>
 		</div>
 	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox">
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/vishal_bhaiya.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Vishal Mandley</h4>
-					<span>Dept. of MME</span>
-
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox"  >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/indra_bhaiya.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Indrajeet Gajbhiye</h4>
-					<span>Dept. of ECE</span>
-
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox"  >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/swati_di.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Swati Kanchan</h4>
-					<span>Dept. of CSE</span>
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox"  >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/lokesh_bhaiya.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Lokesh Nandanwar</h4>
-					<span>Dept. of IT</span>
-
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox">
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/rohan_bhaiya.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Rohan Chaudhury</h4>
-					<span>Dept. of ECE</span>
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox"  >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/ananya_di.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Ananya Ghosh</h4>
-					<span>Dept. of EE</span>
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox" title="This is an image title" >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/abodh_bhaiya.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Abodh Prasad</h4>
-					<span>Dept. of MME</span>
-				</a>
-			</div>
-		</div>
-	</div>
-
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox" >
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/prachita_di.jpg" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4>Prachita Prachi</h4>
-					<span>Dept. of EE</span>
-				</a>
-			</div>
-		</div>
-	</div>
-
-	
+	<?php } ?>
 </div>
 </div>
 <!-- End Client/Partner Section -->
