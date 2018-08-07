@@ -466,7 +466,7 @@ function test_input($data)
             <ul class="icons-list">
             <font size="3">  
               <li><i class="fa fa-globe">  </i> <strong>Address:</strong> National institute of Technology, Durgapur.</li>
-              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> rc-nitdgp.tk</li>
+              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> rcnitdgp@gmail.com </li>
               <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +91 8850136026</li>
             </font>
             </ul>

@@ -280,7 +280,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox">
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/agnivesh_bhaiya.jpg" />
+					<img alt="" src="images/members/agnivesh.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -297,7 +297,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox">
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/vishal_bhaiya.jpg" />
+					<img alt="" src="images/members/vishal.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -315,7 +315,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox"  >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/indra_bhaiya.jpg" />
+					<img alt="" src="images/members/indra.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -333,7 +333,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox"  >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/swati_di.jpg" />
+					<img alt="" src="images/members/swati.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -350,7 +350,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox"  >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/lokesh_bhaiya.jpg" />
+					<img alt="" src="images/members/lokesh.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -368,7 +368,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox">
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/rohan_bhaiya.jpg" />
+					<img alt="" src="images/members/rohan.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -385,7 +385,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox"  >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/ananya_di.jpg" />
+					<img alt="" src="images/members/ananya.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -402,7 +402,7 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox" title="This is an image title" >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/abodh_bhaiya.jpg" />
+					<img alt="" src="images/members/abodh.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
@@ -419,13 +419,149 @@
 			<div class="portfolio-thumb">
 				<a class="lightbox" >
 					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/prachita_di.jpg" />
+					<img alt="" src="images/members/prachita.jpg" />
 				</a>
 			</div>
 			<div class="portfolio-details">
 				<a href="#">
 					<h4>Prachita Prachi</h4>
 					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/pradum.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Pradum Kumar</h4>
+					<span>Dept. of IT</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/reetu.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Reetuparna Saha</h4>
+					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/prachita_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Sai Vara Prasad</h4>
+					<span>Dept. of ECE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/prachita_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Avinash Kumar</h4>
+					<span>Dept. of ME</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/shreya.jpeg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Shreya Srivastava</h4>
+					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/prachita_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Rupesh Prasad</h4>
+					<span>Dept. of CSE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/roshan.jpeg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Roshan Voduri</h4>
+					<span>Dept. of EE</span>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="portfolio-item item">
+		<div class="portfolio-border">
+			<div class="portfolio-thumb">
+				<a class="lightbox" >
+					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
+					<img alt="" src="images/members/prachita_di.jpg" />
+				</a>
+			</div>
+			<div class="portfolio-details">
+				<a href="#">
+					<h4>Diwakar Bharti</h4>
+					<span>Dept. of CSE</span>
 				</a>
 			</div>
 		</div>
