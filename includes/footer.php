@@ -70,7 +70,7 @@
       </div>
       <div class="col-md-3 col-xs-12">
         <div class="footer-widget">
-          <h4><img src="images/robott.png" class="img-responsive" alt="Footer Logo" style="centre" /></h4>
+          <h4><img src="images/robott.png" class="img-responsive" alt="Footer Logo" style="centre"/></h4>
           <h3> <span class="cca">Centre for Cognitive Activities</span></h3>
 		</div>
 		</div>

@@ -29,7 +29,7 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img alt="" src="images/robon.png"></a>
+            <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->

@@ -29,7 +29,7 @@
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img alt="" src="images/robon.png"></a>
+            <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -46,11 +46,9 @@
             <ul class="nav navbar-nav navbar-right">
               <li>
                 <a href="index.php">Home</a>
-                
               </li>
               <li>
                 <a href="gallery.php">Robo Gallery</a>
-                
               </li>
               <li>
                 <a class="active" href="#">Resources</a>
@@ -58,13 +56,10 @@
                   <li><a href="manual.php">Mechanical Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a class="active" href="autonomous.php">Autonomous Bots</a></li>
-                  
-                  
                 </ul>
               </li>
               <li>
                 <a href="workshops.php">Workshops</a>
-                
               </li>
               <li>
                 <a href="#">Events</a>
@@ -98,8 +93,7 @@
             </ul>
           </li>
           <li>
-            <a href="workshops.php">Workshops</a>
-            
+            <a href="workshops.php">Workshops</a>     
           </li>
           <li>
             <a>Events</a>
@@ -117,13 +111,11 @@
         <!-- Mobile Menu End -->
 
       </div>
-
       </div>
       <!-- End Header ( Logo & Naviagtion ) -->
-
+  
     </header>
     <!-- End Header -->
-
 
     <!-- Start Page Banner -->
     <div class="page-banner no-subtitle">
@@ -171,11 +163,11 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                        <li><i class="fa fa-check-circle"></i> Arduino Uno</li>  <img src="images/bluetooth/uno.jpg"> <br>
-                        <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg">  
-                        <li><i class="fa fa-check-circle"></i> Chassis</li> <img src="images/bluetooth/chassis.jpg"> <br><br>
-                        <li><i class="fa fa-check-circle"></i> Wheels</li> <img src="images/bluetooth/wheels.jpg"> <br> <br> 
-                        <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg"> 
+                        <li><i class="fa fa-check-circle"></i> Arduino Uno</li>  <img src="images/bluetooth/uno.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg">  <hr>
+                        <li><i class="fa fa-check-circle"></i> Chassis</li> <img src="images/bluetooth/chassis.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Wheels</li> <img src="images/bluetooth/wheels.jpg"> <hr> 
+                        <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg">  
                         <hr>
                         </font>  
                       </ul> 
@@ -184,11 +176,11 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                        <li><i class="fa fa-check-circle"></i> Batteries</li> <br> <img src="images/bluetooth/battery.jpg"> <br> <br>
-                        <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <br> <img src="images/bluetooth/motor.jpg">
-                        <li><i class="fa fa-check-circle"></i> L298 Motor Driver</li> <img src="images/bluetooth/driver.jpg"> <br> <br>
-                        <li><i class="fa fa-check-circle"></i> 3pcs. Digital IR Sensors</li> <img src="images/autonomous/ir.jpg"> <br> <br>
-                        <li><i class="fa fa-check-circle"></i> Ultrasound Sensor Module</li> <img src="images/autonomous/ultrasonic.jpg"> <br> <br>
+                        <li><i class="fa fa-check-circle"></i> Batteries</li> <img src="images/bluetooth/battery.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <br> <img src="images/bluetooth/motor.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> L298 Motor Driver</li> <img src="images/bluetooth/driver.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 3pcs. Digital IR Sensors</li> <img src="images/autonomous/ir.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Ultrasound Sensor Module</li> <img src="images/autonomous/ultrasonic.jpg"> <hr> 
                         </font>
                         </ul>
                     </div>
@@ -429,10 +421,9 @@ void sright()
             <!-- Divider -->
             <div class="hr5" style="margin-top:45px;margin-bottom:45px;"></div>
 
-           
+          
           </div>
           <!-- End Page Content -->
-
         </div>
       </div>
     </div>

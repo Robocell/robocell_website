@@ -40,10 +40,10 @@
 									<div class="slider-content">
 										<div class="col-md-12 text-center">
 											<h2 class="animated2">
-												<span><font face="Desire" color="Yellow"> Welcome to <strong>ROBOCELL</strong> </font> </span>
+												<span><font face="Desire" color="#F2FD0F"> Welcome to <strong>ROBOCELL</strong> </font> </span>
 											</h2>
 											<h3 class="animated3">
-												<span> <font color="Red"> <strong> Official Robotics CLub OF NIT Durgapur</strong> </font> </span>
+												<span> <font color="#FB030B"> <strong> Official Robotics CLub OF NIT Durgapur</strong> </font> </span>
 											</h3>
 											
 										</div>
@@ -55,10 +55,10 @@
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated4">
-													<span><font face="Desire" color="Yellow">We, At <strong>NIT DURGAPUR,</strong> <br><br> Provide Students A Chance </font></span>
+													<span><font face="Desire" color="#F2FD0F">We, At <strong>NIT DURGAPUR,</strong> <br><br> Provide Students A Chance </font></span>
 												</h2>
 												<h3 class="animated4">
-													<span><font color="Red"><strong>To Design And Deliver Robots</strong></font></span>
+													<span><font color="#FB030B"><strong>To Design And Deliver Robots</strong></font></span>
 												</h3>
 												
 											</div>
@@ -70,10 +70,10 @@
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated7 white">
-													<span> <font face="Desire" color="Yellow"> Here You Can Learn Concepts Of <br> <br><strong>Robotics </strong> </font></span>
+													<span> <font face="Desire" color="#F2FD0F"> Here You Can Learn Concepts Of <br> <br><strong>Robotics </strong> </font></span>
 												</h2>
 												<h3 class="animated8 white">
-													<span><font face="Desire" color="Red">NO Prior Experience Required, <strong>Enthusiasm </strong>Is All We Need </font></span>
+													<span><font face="Desire" color="#FB030B">NO Prior Experience Required, <strong>Enthusiasm </strong>Is All We Need </font></span>
 												</h3>
 												
 											</div>
@@ -101,14 +101,14 @@
 				<div class="section service">
 					<div class="container">
 						<div  class="big-title text-center" >
-							<h1><strong> <font face="Tahoma" size="6" color="Black"> ABOUT US</strong> </font> </h1>
-							<p><font size="3" color="Black" > The Robocell is the group of people who take care of the Robotics and it is the sole society which promotes and deals with the science of robots in our college. It organizes several workshops, competitions and events in Aarohan as well as otherwise. 
+							<h1><strong> <font face="Tahoma" size="6" color="#010000"> ABOUT US</strong> </font> </h1>
+							<p><font size="3" color="#010000" > The Robocell is the group of people who take care of the Robotics and it is the sole society which promotes and deals with the science of robots in our college. It organizes several workshops, competitions and events in Aarohan as well as otherwise. 
 							Other than these, the cell members also build and promote robotics and automation-related projects. </p> </font>
 
 						</div>
 					<div  class="big-title text-center" >
-						<h1><font face="Tahoma" size="6" color="Black"><strong>VISION OF OUR CELL</strong></font></h1>
-						<p><font size="3" COLOR="Black">The Robocell has a single goal: to popularize and spread awareness about Robotics.
+						<h1><font face="Tahoma" size="6" color="#010000"><strong>VISION OF OUR CELL</strong></font></h1>
+						<p><font size="3" COLOR="#010000">The Robocell has a single goal: to popularize and spread awareness about Robotics.
 						In the current era, where tecnology changes are rapid, it becomes imperative to stay updated. Thus, we organize workshops to teach, and competitions to reward those who take interest in this latest science.
 						We  aim to use robotics and our creativity to do something positive for our soceity and nation. </p> </font>
 																										

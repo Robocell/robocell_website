@@ -158,7 +158,7 @@ function test_input($data)
               <i class="fa fa-bars"></i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html"><img alt="" src="images/robon.png"></a>
+            <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
           </div>
           <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -180,7 +180,7 @@ function test_input($data)
                 <a href="gallery.php">Robo Gallery</a>
               </li>
               <li>
-                <a href="#">Resources</a>
+                <a href="autonomous.php">Resources</a>
                 <ul class="dropdown">
                   <li><a href="manual.php">Mechanical Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
@@ -192,7 +192,7 @@ function test_input($data)
                 
               </li>
               <li>
-                <a href="#">Events</a>
+                <a href="aarohan.php">Events</a>
                 <ul class="dropdown">
                   <li><a href="robocity.php">RoboCity '19</a></li>
                   <li><a href="aarohan.php">Aarohan '19</a></li>
@@ -208,10 +208,12 @@ function test_input($data)
         <ul class="wpb-mobile-menu">
           <li>
             <a href="index.php">Home</a>
+          </li>
+          <li>
             <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="#">Resources</a>
+            <a href="manual.php">Resources</a>
             <ul class="dropdown">
               <li><a href="manual.php">Mechanical Bots</a>
               </li>
@@ -226,7 +228,7 @@ function test_input($data)
             
           </li>
           <li>
-            <a>Events</a>
+            <a href="aarohan.php">Events</a>
             <ul class="dropdown">
               <li><a href="robocity.php">Robocity '18</a>
               </li>
@@ -248,6 +250,7 @@ function test_input($data)
     </header>
     <!-- End Header -->
 </div>
+
     <!-- Start Map -->
     <div id="map" data-position-latitude="23.5501715" data-position-longitude="87.2874672"></div>
     </div>
@@ -454,10 +457,10 @@ function test_input($data)
           <div class="col-md-4">
 
             <!-- Classic Heading -->
-            <h4 class="classic-title"><span><font size="4" face="Bold" color="Black" style="Comic Sans MS" >Information </font></span></h4>
+            <h4 class="classic-title"><span><font size="4" color="#010000" style="Comic Sans MS" >Information </font></span></h4>
 
             <!-- Some Info -->
-            <p> <font size="4" color="Black" style="Desire" face="Bold">Robocell is a part of Centre for Cognitive Activities, NIT Durgapur</font></p>
+            <p> <font size="4" color="#010000" style="Desire" face="Bold">Robocell is a part of Centre for Cognitive Activities, NIT Durgapur</font></p>
 
             <!-- Divider -->
             <div class="hr1" style="margin-bottom:10px;"></div>
@@ -465,9 +468,9 @@ function test_input($data)
             <!-- Info - Icons List -->
             <ul class="icons-list">
             <font size="3">  
-              <li><i class="fa fa-globe">  </i> <strong>Address:</strong> National institute of Technology, Durgapur.</li>
-              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> rc-nitdgp.tk</li>
-              <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +91 8850136026</li>
+              <li><i class="fa fa-globe">  </i> <strong>Address:</strong> <font color="#010000"> NIT Durgapur </font></li>
+              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> <font color="#010000"> rc-nitdgp.tk </font> </li>
+              <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> <font color="#010000"> +91 8850136026 </font> </li> 
             </font>
             </ul>
 

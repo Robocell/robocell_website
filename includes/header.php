@@ -71,8 +71,8 @@
           <i class="fa fa-bars"></i>
         </button>
         <!-- End Toggle Nav Link For Mobiles -->
-        <a class="navbar-brand" href="index.html">
-          <img alt="" src="images/robon.png">
+        <a class="navbar-brand" href="index.php">
+          <img href="index.php" alt="" src="images/robon.png">
         </a>
       </div>
       <div class="navbar-collapse collapse">
@@ -90,42 +90,6 @@
         <ul class="nav navbar-nav navbar-right">
           <li>
             <a class="active" href="index.php">Home</a>
-            <!--<ul class="dropdown">
-              <li><a class="active" href="index.html">Home Main Version</a>
-              </li>
-              <li><a href="index-01.html">Home Version 1</a>
-              </li>
-              <li><a href="index-02.html">Home Version 2</a>
-              </li>
-              <li><a href="index-03.html">Home Version 3</a>
-              </li>
-              <li><a href="index-04.html">Home Version 4</a>
-              </li>
-              <li><a href="index-05.html">Home Version 5</a>
-              </li>
-              <li><a href="index-06.html">Home Version 6</a>
-              </li>
-              <li><a href="index-07.html">Home Version 7</a>
-              </li>
-            </ul>
-          </li>
-          -->
-          <!--
-          <li>
-            <a href="about.html">Tutorials</a>
-            <ul class="dropdown">
-              <li><a href="about.html">Mechanical bots</a>
-              </li>
-              <li><a href="services.html">Semi-Autonomous bots</a>
-              </li>
-              <li><a href="right-sidebar.html">Autonomous Bots</a>
-              </li>
-              
-            </ul>
-          </li>
-          -->
-         
-          
           <li>
             <a href="gallery.php">Robo Gallery</a>
           </li>
@@ -140,9 +104,7 @@
               </li>
               <li><a href="autonomous.php">Autonomous Bots</a>
               </li>
-               <li role="separator" class="divider"></li>
-              <li><a href="links.php"><strong> Useful Links </strong></a></li>
-             </ul>
+          </ul>
           </li>
           <li>
             <a href="workshops.php">Workshops</a>
