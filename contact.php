@@ -161,16 +161,6 @@ function test_input($data)
             <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
           </div>
           <div class="navbar-collapse collapse">
-            <!-- Stat Search -->
-            <div class="search-side">
-              <a class="show-search"><i class="fa fa-search"></i></a>
-              <div class="search-form">
-                <form autocomplete="off" role="search" method="get" class="searchform" action="#">
-                  <input type="text" value="" name="s" id="s" placeholder="Search the site...">
-                </form>
-              </div>
-            </div>
-            <!-- End Search -->
             <!-- Start Navigation List -->
             <ul class="nav navbar-nav navbar-right">
               <li>
@@ -237,13 +227,10 @@ function test_input($data)
             </ul>
           </li>
           <li>
-            <a class="active" href="contact.html">Contact</a>
+            <a class="active" href="contact.php">Contact</a>
           </li>
         </ul>
         <!-- Mobile Menu End -->
-
-
-        </div>
       </div>
       <!-- End Header ( Logo & Naviagtion ) -->
       <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCpnQ9wtP6cpF-V-C51ovsSrX_qEI5Ao3E" type="text/javascript"></script>
@@ -252,8 +239,8 @@ function test_input($data)
 </div>
 
     <!-- Start Map -->
-    <div id="map" data-position-latitude="23.5501715" data-position-longitude="87.2874672"></div>
-    </div>
+    <div id="map" data-position-latitude="23.5484205" data-position-longitude="87.2915227"></div>
+  
     <script>
       (function($) {
         $.fn.CustomMap = function(options) {
@@ -268,7 +255,7 @@ function test_input($data)
             },
             text: '<div class="map-popup"><h4>ROBOCELL </h4><p> CCA, NIT Durgapur,West Bengal-713209, India </p></div>',
             icon_url: $('#map').data('marker-img'),
-            zoom: 15
+            zoom: 17
           }, options);
 
           var coords = new google.maps.LatLng(settings.home.latitude, settings.home.longitude);
@@ -449,9 +436,7 @@ function test_input($data)
             <!-- End Contact Form -->
 
             <div>
-              
             </div>
-
           </div>
 
           <div class="col-md-4">
@@ -468,25 +453,18 @@ function test_input($data)
             <!-- Info - Icons List -->
             <ul class="icons-list">
             <font size="3">  
-<<<<<<< HEAD
               <li><i class="fa fa-globe">  </i> <strong>Address:</strong> <font color="#010000"> NIT Durgapur </font></li>
               <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> <font color="#010000"> rc-nitdgp.tk </font> </li>
               <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> <font color="#010000"> +91 8850136026 </font> </li> 
-=======
-              <li><i class="fa fa-globe">  </i> <strong>Address:</strong> National institute of Technology, Durgapur.</li>
-              <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> rcnitdgp@gmail.com </li>
-              <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> +91 8850136026</li>
->>>>>>> bdd3cdfda56a9380353e4f79e5d61b6112dd3985
             </font>
             </ul>
 
 
           </div>
-
+      </div>  
         </div>
 
       </div>
-    </div>
     <!-- End content -->
 
 

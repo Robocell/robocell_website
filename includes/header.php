@@ -8,7 +8,7 @@
         <div class="col-md-7">
           <!-- Start Contact Info -->
           <ul class="contact-details">
-            <li><a href="#"><em class="fa fa-map-marker"></em> M.G. ROAD, NIT DURGAPUR, WEST BENGAL, INDIA 713209</a> </li>
+            <li><a href="contact.php"><em class="fa fa-map-marker"></em> M.G. ROAD, NIT DURGAPUR, WEST BENGAL, INDIA 713209</a> </li>
             <li><a href="https://www.facebook.com/RobocellNITDgp/" target="blank"><i class="fa fa-facebook"></i> facebook.com/robocell</a>
             </li>
             <li><a href="#"><i class="fa fa-phone"></i> +91 8850136026</a>
@@ -21,7 +21,7 @@
           <!-- Start Social Links -->
           <ul class="social-list">
             <li>
-              <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" target="blank" href="https://www.facebook.com/groups/108249746199591/?ref=bookmarks"><i class="fa fa-facebook"></i></a>
+              <a class="facebook itl-tooltip" data-placement="bottom" title="Facebook" target="blank" href="https://www.facebook.com/RobocellNITDgp/"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
               <a class="instagram itl-tooltip" data-placement="bottom" title="Instagram" target="blank" href="https://www.instagram.com/robocellnitdgp/"><i class="fa fa-instagram"></i></a>
@@ -29,26 +29,7 @@
             <li>
               <a class="youtube itl-tooltip" data-placement="bottom" title="Youtube" target="blank" href="https://www.youtube.com/channel/UCrKbVHAMV8lkh25pck7RdcQ"><i class="fa fa-youtube"></i></a>
             </li>
-            <!--
-            <li>
-              <a class="linkdin itl-tooltip" data-placement="bottom" title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a class="flickr itl-tooltip" data-placement="bottom" title="Flickr" href="#"><i class="fa fa-flickr"></i></a>
-            </li>
-            <li>
-              <a class="tumblr itl-tooltip" data-placement="bottom" title="Tumblr" href="#"><i class="fa fa-tumblr"></i></a>
-            </li>
-            <li>
-              <a class="instgram itl-tooltip" data-placement="bottom" title="Instagram" href="#"><i class="fa fa-instagram"></i></a>
-            </li>
-            <li>
-              <a class="vimeo itl-tooltip" data-placement="bottom" title="vimeo" href="#"><i class="fa fa-vimeo-square"></i></a>
-            </li>
-            <li>
-              <a class="skype itl-tooltip" data-placement="bottom" title="Skype" href="#"><i class="fa fa-skype"></i></a>
-            </li>
-            -->
+            
           </ul>
           <!-- End Social Links -->
         </div>
@@ -76,16 +57,6 @@
         </a>
       </div>
       <div class="navbar-collapse collapse">
-        <!-- Stat Search -->
-        <div class="search-side">
-          <a class="show-search"><i class="fa fa-search"></i></a>
-          <div class="search-form">
-            <form autocomplete="off" role="search" method="get" class="searchform" action="#">
-              <input type="text" value="" name="s" id="s" placeholder="Search the site...">
-            </form>
-          </div>
-        </div>
-        <!-- End Search -->
         <!-- Start Navigation List -->
         <ul class="nav navbar-nav navbar-right">
           <li>
@@ -108,19 +79,7 @@
           </li>
           <li>
             <a href="workshops.php">Workshops</a>
-            <!--
-            <ul class="dropdown">
-              <li><a href="portfolio-2.html">2 Columns</a>
-              </li>
-              <li><a href="portfolio-3.html">3 Columns</a>
-              </li>
-              <li><a href="portfolio-4.html">4 Columns</a>
-              </li>
-              <li><a href="single-project.html">Single Project</a>
-              
-              </li>
-            </ul>
-            -->
+            
           </li>
            <li>
             <a href="#">Events</a>
@@ -131,16 +90,7 @@
               </li>
               <li><a href="aarohan.php">Aarohan'19</a>
               </li>
-              <!--
-              <li><a href="latest-projects.html">Latest Projects</a>
-              </li>
-              <li><a href="pricing.html">Pricing Tables</a>
-              </li>
-              <li><a href="animated-graphs.html">Animated Graphs</a>
-              </li>
-              <li><a href="accordion-toggles.html">Accordion & Toggles</a>
-              </li>
-              -->
+              
             </ul>
           </li>
           <li><a href="contact.php">Contact Us</a>
