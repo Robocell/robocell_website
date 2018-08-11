@@ -41,9 +41,9 @@
                 <a href="gallery.php">Robo Gallery</a>
               </li>
               <li>
-                <a class="active" href="#">Resources</a>
+                <a class="active" href="autonomous.php">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="manual.php">Manual Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a class="active" href="autonomous.php">Autonomous Bots</a></li>
                 </ul>
@@ -52,7 +52,7 @@
                 <a href="workshops.php">Workshops</a>
               </li>
               <li>
-                <a href="#">Events</a>
+                <a href="aarohan.php">Events</a>
                 <ul class="dropdown">
                   <li><a href="robocity.php">RoboCity '19</a></li>
                   <li><a href="aarohan.php">Aarohan '19</a></li>
@@ -72,9 +72,9 @@
             <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a class="active" href="#">Resources</a>
+            <a class="active" href="autonomous.php">Tutorials</a>
             <ul class="dropdown">
-              <li><a href="manual.php">Mechanical Bots</a>
+              <li><a href="manual.php">Manual Bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
               </li>
@@ -86,7 +86,7 @@
             <a href="workshops.php">Workshops</a>     
           </li>
           <li>
-            <a>Events</a>
+            <a href="aarohan.php">Events</a>
             <ul class="dropdown">
               <li><a href="robocity.php">Robocity '18</a>
               </li>
@@ -115,7 +115,7 @@
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Resources</a></li>
+              <li><a href="#">Tutorials</a></li>
               <li>Tutorials: Autonomous Bots</li>
             </ul>
           </div>

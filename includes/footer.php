@@ -17,50 +17,19 @@
           <h4>Follow Us<span class="head-line"></span></h4>
           <ul class="social-icons">
             <li>
-              <a class="facebook" href="https://www.facebook.com/RobocellNITDgp/"><i class="fa fa-facebook"></i></a>
+              <a class="facebook" target="blank" href="https://www.facebook.com/RobocellNITDgp/"><i class="fa fa-facebook"></i></a>
             </li>
             <li>
-              <a class="instagram" href="https://www.instagram.com/robocellnitdgp/"><i class="fa fa-instagram"></i></a>
+              <a class="instagram" target="blank" href="https://www.instagram.com/robocellnitdgp/"><i class="fa fa-instagram"></i></a>
             </li>
             <li>
-              <a class="youtube" href="https://www.youtube.com/channel/UCrKbVHAMV8lkh25pck7RdcQ"><i class="fa fa-youtube"></i></a>
+              <a class="youtube" target="blank" href="https://www.youtube.com/channel/UCrKbVHAMV8lkh25pck7RdcQ"><i class="fa fa-youtube"></i></a>
             </li>
-            <!--
-            <li>
-              <a class="linkdin" href="#"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a class="flickr" href="#"><i class="fa fa-flickr"></i></a>
-            </li>
-            <li>
-              <a class="tumblr" href="#"><i class="fa fa-tumblr"></i></a>
-            </li>
-            <li>
-              <a class="instgram" href="#"><i class="fa fa-instagram"></i></a>
-            </li>
-            <li>
-              <a class="vimeo" href="#"><i class="fa fa-vimeo-square"></i></a>
-            </li>
-            <li>
-              <a class="skype" href="#"><i class="fa fa-skype"></i></a>
-            </li>
-            -->
           </ul>
         </div>
       </div>
       <!-- .col-md-3 -->
       <!-- End Subscribe & Social Links Widget -->
-
-
-      <!-- Start Twitter Widget -->
-      <!-- .col-md-3 -->   
-      <!-- End Twitter Widget -->
-
-
-      <!-- Start Flickr Widget -->
- 
-      <!-- .col-md-3 -->
-      <!-- End Flickr Widget -->
 
 
       <!-- Start Contact Widget -->

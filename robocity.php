@@ -43,9 +43,9 @@
                 
               </li>
               <li>
-                <a href="#">Resources</a>
+                <a href="autonomous.php">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="manual.php">Manual Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a href="autonomous.php">Autonomous Bots</a></li>
                   
@@ -57,7 +57,7 @@
                 
               </li>
               <li>
-                <a class="active" href="#">Events</a>
+                <a class="active" href="aarohan.php">Events</a>
                 <ul class="dropdown">
                   <li><a class="active" href="robocity.php">RoboCity '18</a></li>
                   <li><a href="aarohan.php">Aarohan '19</a></li>
@@ -77,9 +77,9 @@
             <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="#">Resources</a>
+            <a href="autonomous.php">Tutorials</a>
             <ul class="dropdown">
-              <li><a href="manual.php">Mechanical Bots</a>
+              <li><a href="manual.php">Manual Bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
               </li>
@@ -92,7 +92,7 @@
             
           </li>
           <li>
-            <a class="active">Events</a>
+            <a class="active" href="aarohan.php">Events</a>
             <ul class="dropdown">
               <li><a class="active" href="robocity.php">Robocity '18</a>
               </li>

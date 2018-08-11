@@ -11,7 +11,7 @@
             <li><a href="contact.php"><em class="fa fa-map-marker"></em> M.G. ROAD, NIT DURGAPUR, WEST BENGAL, INDIA 713209</a> </li>
             <li><a href="https://www.facebook.com/RobocellNITDgp/" target="blank"><i class="fa fa-facebook"></i> facebook.com/robocell</a>
             </li>
-            <li><a href="#"><i class="fa fa-phone"></i> +91 8850136026</a>
+            <li><a><i class="fa fa-phone"></i> +91 8850136026</a>
             </li>
           </ul>
           <!-- End Contact Info -->
@@ -65,10 +65,8 @@
             <a href="gallery.php">Robo Gallery</a>
           </li>
           
-          <li><a href="#">Resourses</a>
+          <li><a href="autonomous.php">Tutorials</a>
            <ul class="dropdown">
-            <li role="separator" class="divider"></li>
-              <li><strong>Tutorials</strong></li>
                <li><a href="manual.php">Mechanical bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous bots</a>
@@ -82,7 +80,7 @@
             
           </li>
            <li>
-            <a href="#">Events</a>
+            <a href="aarohan.php">Events</a>
             <ul class="dropdown">
              <li role="separator" class="divider"></li>
               <li><strong>NIT DURGAPUR</strong></li>
@@ -110,7 +108,7 @@
             <a href="gallery.php">Robo Gallery</a>
       </li>
           
-      <li><a href="#">Resourses</a>
+      <li><a href="autonomous.php">Tutorials</a>
            <ul class="dropdown">
            
               <li><a><strong>Tutorials</strong></a></li>
@@ -126,7 +124,7 @@
             <a href="workshops.php">Workshops</a>
           </li>
            <li>
-            <a href="#">Events</a>
+            <a href="aarohan.php">Events</a>
             <ul class="dropdown">
               <li><a href="robocity.php">Robocity'18</a>
               </li>

@@ -11,71 +11,103 @@
 
 <body>
 
-  <!-- Container -->
-  <div id="container">
+ <!-- Container -->
+ <div id="container">
 
-    <!-- Start Header -->
-    <div class="hidden-header"></div>
-    <header class="clearfix">
+<!-- Start Header -->
+<div class="hidden-header"></div>
+<header class="clearfix">
 
-      
+ 
 
-      <!-- Start Header ( Logo & Naviagtion ) -->
-      <div class="navbar navbar-default navbar-top">
-        <div class="container">
-          <div class="navbar-header">
-            <!-- Stat Toggle Nav Link For Mobiles -->
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-              <i class="fa fa-bars"></i>
-            </button>
-            <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
-          </div>
-          <div class="navbar-collapse collapse">
-            
-            <!-- Start Navigation List -->
-            <ul class="nav navbar-nav navbar-right">
-              <li>
-                <a href="index.php">Home</a>
-                
-              </li>
-              <li>
-                <a href="gallery.php">Robo Gallery</a>
-                
-              </li>
-              <li>
-                <a class="active" href="#">Resources</a>
-                <ul class="dropdown">
-                  <li><a class="active" href="manual.php">Mechanical Bots</a></li>
-                  <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
-                  <li><a href="autonomous.php">Autonomous Bots</a></li>
-                                    
-                </ul>
-              </li>
-              <li>
-                <a href="workshops.php">Workshops</a>
-                
-              </li>
-              <li>
-                <a href="#">Events</a>
-                <ul class="dropdown">
-                  <li><a href="robocity.php">RoboCity '19</a></li>
-                  <li><a href="aarohan.php">Aarohan '19</a></li>
-                  
-                </ul>
-              </li>
-              <li><a href="contact.php">Contact Us</a></li>
-            </ul>
-            <!-- End Navigation List -->
-          </div>
-        </div>
-
-        
-
+  <!-- Start Header ( Logo & Naviagtion ) -->
+  <div class="navbar navbar-default navbar-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- Start Toggle Nav Link For Mobiles -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <i class="fa fa-bars"></i>
+        </button>
+        <!-- End Toggle Nav Link For Mobiles -->
+        <a class="navbar-brand" href="index.php"><img alt="" src="images/robon.png"></a>
       </div>
-      <!-- End Header ( Logo & Naviagtion ) -->
+      <div class="navbar-collapse collapse">
+        
+        <!-- Start Navigation List -->
+        <ul class="nav navbar-nav navbar-right">
+          <li>
+            <a href="index.php">Home</a>    
+          </li>
+          <li>
+            <a href="gallery.php">Robo Gallery</a>
+          </li>
+          <li>
+            <a class= "active" href="autonomous.php">Tutorials</a>
+            <ul class="dropdown">
+              <li><a class="active" href="manual.php">Manual Bots</a></li>
+              <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
+              <li><a href="autonomous.php">Autonomous Bots</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="workshops.php">Workshops</a>
+            
+          </li>
+          
+          <li>
+            <a href="aarohan.php">Events</a>
+            <ul class="dropdown">
+              <li><a href="robocity.php">Robocity '19</a></li>
+              <li><a href="aarohan.php">Aarohan '19</a></li>
+            </ul>
+          </li>
+          <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+        <!-- End Navigation List -->
+      </div>
+    </div>
 
-    </header>
+    <!-- Mobile Menu Start -->
+    <ul class="wpb-mobile-menu">
+      <li>
+        <a href="index.php">Home</a>
+        <a href="gallery.php">Gallery</a>
+      </li>
+      <li>
+        <a href="autonomous.php">Tutorials</a>
+        <ul class="dropdown">
+          <li><a class="active" href="manual.php">Manual Bots</a>
+          </li>
+          <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
+          </li>
+          <li><a href="autonomous.php">Autonomous Bots</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="workshops.php">Workshops</a>
+        
+      </li>
+      <li>
+        <a href="aarohan.php">Events</a>
+        <ul class="dropdown">
+          <li><a href="robocity.php">Robocity '18</a>
+          </li>
+          <li><a href="aarohan.php">Aarohan '19</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="contact.php">Contact</a>
+      </li>
+    </ul>
+    <!-- Mobile Menu End -->
+    
+
+  </div>
+  <!-- End Header ( Logo & Naviagtion ) -->
+
+</header>
     <!-- End Header -->
 
 
@@ -88,7 +120,7 @@
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Resources</a></li>
+              <li><a href="#">Tutorials</a></li>
               <li>Tutorials: Manual Bots</li>
             </ul>
           </div>
@@ -118,8 +150,8 @@
                   <center><img src="images/manual/bot.jpg"></center>
                   <hr/>
                   <p><font size="4"><strong class="accent-color"><font color="Black">Manual Bot: </font> </strong></font><font size="3"> This kind bots does not have its own brain and are controlled by human.
-This workshop focuses on building a manual bot which will be a 4 wheel drive bot and will also contain a hand mechanism. This will be a very basic manual bot and could be used in competing in the manual robotics events.
- </p>
+                    This workshop focuses on building a manual bot which will be a 4 wheel drive bot and will also contain a hand mechanism. This will be a very basic manual bot and could be used in competing in the manual robotics events.
+                  </p>
                   <p><font size="4">The components required to make this type of bot are: </font></font></p>
                   
                   <div class="row">
@@ -196,8 +228,7 @@ This workshop focuses on building a manual bot which will be a 4 wheel drive bot
                   </font></ul>
                   </div>
               </div>
-
-              
+            </div>       
 
               <!-- End Tab Panels -->
 

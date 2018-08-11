@@ -42,9 +42,9 @@
                 <a class= "active" href="gallery.php">Robo Gallery</a>
               </li>
               <li>
-                <a href="#">Tutorials</a>
+                <a href="autonomous.php">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="manual.php">Manual Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a href="autonomous.php">Autonomous Bots</a></li>
                 </ul>
@@ -55,7 +55,7 @@
               </li>
               
               <li>
-                <a href="#">Events</a>
+                <a href="aarohan.php">Events</a>
                 <ul class="dropdown">
                   <li><a href="robocity.php">Robocity '19</a></li>
                   <li><a href="aarohan.php">Aarohan '19</a></li>
@@ -74,9 +74,9 @@
             <a class="active" href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="#">Resources</a>
+            <a href="autonomous.php">Tutorials</a>
             <ul class="dropdown">
-              <li><a href="manual.php">Mechanical Bots</a>
+              <li><a href="manual.php">Manual Bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
               </li>
@@ -89,7 +89,7 @@
             
           </li>
           <li>
-            <a>Events</a>
+            <a href="aarohan.php">Events</a>
             <ul class="dropdown">
               <li><a href="robocity.php">Robocity '18</a>
               </li>
@@ -146,10 +146,6 @@
             </li>
 
             <li>
-              <img src="images/robo_gallery/8.jpeg" alt="" />
-            </li>
-
-            <li>
             <img src="images/robo_gallery/11.jpg" alt="" />
             </li>
 
@@ -168,7 +164,31 @@
             <li>
             <img src="images/robo_gallery/16.jpg" alt="" />
             </li>
+
+            <li>
+            <img src="images/robo_gallery/17.jpg" alt="" />
+            </li>
+
+            <li>
+            <img src="images/robo_gallery/18.jpg" alt="" />
+            </li>
+
+            <li>
+            <img src="images/robo_gallery/19.jpg" alt="" />
+            </li>
+
+            <li>
+            <img src="images/robo_gallery/21.jpg" alt="" />
+            </li>
             
+            <li>
+            <img src="images/robo_gallery/22.jpg" alt="" />
+            </li>
+
+            <li>
+            <img src="images/robo_gallery/23.jpg" alt="" />
+            </li>
+
           </ul>
           <!-- End Portfolio Items -->
 

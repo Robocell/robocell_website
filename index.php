@@ -147,7 +147,7 @@
 							</div>
 						</div>
 			
-						<!-- Start Service Icon 8 -->
+						<!-- Start Service Icon 3 -->
 						<div class="col-md-3 col-sm-6 service-box service-center" data-animation="fadeIn" data-animation-delay="02">
 							<div class="service-icon">
 								<i class="fa fa-umbrella icon-large"></i>
@@ -280,22 +280,21 @@
 		while($row = mysqli_fetch_assoc($result))
 		{
   	?>
-	<div class="portfolio-item item">
-		<div class="portfolio-border">
-			<div class="portfolio-thumb">
-				<a class="lightbox">
-					<div class="thumb-overlay"><i class="fa fa-arrows-alt"></i></div>
-					<img alt="" src="images/members/<?php echo $row["img_src"]; ?>" />
-				</a>
-			</div>
-			<div class="portfolio-details">
-				<a href="#">
-					<h4><?php echo $row["name"]; ?></h4>
-					<span> Dept. of <?php echo $row["department"]; ?></span>
-				</a>
+		<div class="portfolio-item item">
+			<div class="portfolio-border">
+				<div class="portfolio-thumb">
+					<a class="lightbox">
+						<img alt="" src="images/members/<?php echo $row["img_src"]; ?>" />
+					</a>
+				</div>
+				<div class="portfolio-details">
+					<a href="#">
+						<h4><?php echo $row["name"]; ?></h4>
+						<span> Dept. of <?php echo $row["department"]; ?></span>
+					</a>
+				</div>
 			</div>
 		</div>
-	</div>
 	<?php } ?>
 </div>
 </div>
@@ -311,7 +310,7 @@
 		</div>
 	<!-- End Full Body Container -->
 
-									<!-- Go To Top Link -->
+	<!-- Go To Top Link -->
 		<a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
 
 		<div id="loader">

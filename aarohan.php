@@ -1,6 +1,4 @@
 <!doctype html>
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"> <![endif]-->
 <html lang="en">
 
 <head>
@@ -43,9 +41,9 @@
                 
               </li>
               <li>
-                <a href="#">Resources</a>
+                <a href="autonomous.php">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="manual.php">Manual Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a href="autonomous.php">Autonomous Bots</a></li>
                   
@@ -57,7 +55,7 @@
                 
               </li>
               <li>
-                <a class="active" href="#">Events</a>
+                <a class="active" href="aarohan.php">Events</a>
                 <ul class="dropdown">
                   <li><a href="robocity.php">RoboCity '19</a></li>
                   <li><a class="active" href="aarohan.php">Aarohan '19</a></li>
@@ -77,9 +75,9 @@
             <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="#">Resources</a>
+            <a href="#">Tutorials</a>
             <ul class="dropdown">
-              <li><a href="manual.php">Mechanical Bots</a>
+              <li><a href="manual.php">Manual Bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
               </li>
@@ -105,14 +103,11 @@
           </li>
         </ul>
         <!-- Mobile Menu End -->
-        
-
       </div>
       <!-- End Header ( Logo & Naviagtion ) -->
 
     </header>
     <!-- End Header -->
-
 
     <!-- Start Page Banner -->
     <div class="page-banner no-subtitle">
@@ -142,8 +137,6 @@
           <div class="col-md-9 page-content">
           <center><p><font face="Desire" color="Black" size="6"> AAROHAN '19</font></p></center>
             <div class="tabs-section">
-
-              
 
               <!-- Tab panels -->
               <div class="tab-content">

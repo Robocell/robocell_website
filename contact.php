@@ -170,9 +170,9 @@ function test_input($data)
                 <a href="gallery.php">Robo Gallery</a>
               </li>
               <li>
-                <a href="autonomous.php">Resources</a>
+                <a href="autonomous.php">Tutorials</a>
                 <ul class="dropdown">
-                  <li><a href="manual.php">Mechanical Bots</a></li>
+                  <li><a href="manual.php">Manual Bots</a></li>
                   <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a></li>
                   <li><a href="autonomous.php">Autonomous Bots</a></li>
                 </ul>
@@ -186,7 +186,6 @@ function test_input($data)
                 <ul class="dropdown">
                   <li><a href="robocity.php">RoboCity '19</a></li>
                   <li><a href="aarohan.php">Aarohan '19</a></li>
-                  
                 </ul>
               </li>
               <li><a class ="active" href="contact.php">Contact Us</a></li>
@@ -203,9 +202,9 @@ function test_input($data)
             <a href="gallery.php">Gallery</a>
           </li>
           <li>
-            <a href="manual.php">Resources</a>
+            <a href="manual.php">Tutorials</a>
             <ul class="dropdown">
-              <li><a href="manual.php">Mechanical Bots</a>
+              <li><a href="manual.php">Manual Bots</a>
               </li>
               <li><a href="semi_autonomous.php">Semi-Autonomous Bots</a>
               </li>
@@ -390,6 +389,7 @@ function test_input($data)
       });
     </script>
     <!-- End Map -->
+
 
     <!-- Start Content -->
     <div id="content">
