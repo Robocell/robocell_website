@@ -13,10 +13,10 @@
 		<div id="container">
 		
 		<!-- Start Header Section -->
-			<?php include("includes/header.php");?>
-		<!-- End Header Section -->
+				<?php include("includes/header.php");?>
+			<!-- End Header Section -->
 
-			<div>
+		<div>
 				<!-- Start Home Page Slider -->
 				<section id="home">
 					<!-- Carousel -->
@@ -33,14 +33,14 @@
 						<!-- Carousel inner -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img class="img-responsive" src="images/Slider.jpg" alt="slider">
+								<img class="img-responsive" src="images/Slider.jpeg" alt="slider">
 									<div class="slider-content">
 										<div class="col-md-12 text-center">
 											<h2 class="animated2">
-												<span><font face="Desire" color="#F2FD0F"> Welcome to <strong>ROBOCELL</strong> </font> </span>
+												<span> <font face="Georgia" color="#F5D71E" style="Bold"> Welcome to ROBOCELL </font> </span>
 											</h2>
 											<h3 class="animated3">
-												<span> <font color="#FB030B"> <strong> Official Robotics CLub OF NIT Durgapur</strong> </font> </span>
+												<span> <font face="Desire" color="#CA1A02" style="Bold"> Official Robotics CLub OF NIT Durgapur </font> </span>
 											</h3>
 											
 										</div>
@@ -48,14 +48,14 @@
 								</div>
 								<!--/ Carousel item end -->
 								<div class="item">
-									<img class="img-responsive" src="images/Slider.jpg" alt="slider">
+									<img class="img-responsive" src="images/Slider.jpeg" alt="slider">
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated4">
-													<span><font face="Desire" color="#F2FD0F">We, At <strong>NIT DURGAPUR,</strong> <br><br> Provide Students A Chance </font></span>
+													<span><font face="Georgia" color="#2F468E">We, at NIT DURGAPUR, <br><br> Provide Students A Chance </font></span>
 												</h2>
 												<h3 class="animated4">
-													<span><font color="#FB030B"><strong>To Design And Deliver Robots</strong></font></span>
+													<span><font face="Desire" color="#41BF1F" style="Bold">To Design And Deliver Robots</font></span>
 												</h3>
 												
 											</div>
@@ -63,14 +63,14 @@
 								</div>
 											<!--/ Carousel item end -->
 								<div class="item">
-									<img class="img-responsive" src="images/Slider.jpg" alt="slider">
+									<img class="img-responsive" src="images/Slider.jpeg" alt="slider">
 										<div class="slider-content">
 											<div class="col-md-12 text-center">
 												<h2 class="animated7 white">
-													<span> <font face="Desire" color="#F2FD0F"> Here You Can Learn Concepts Of <br> <br><strong>Robotics </strong> </font></span>
+													<span> <font face="Georgia" color="#E7B3D1"> Here You Can Learn Concepts Of <br> <br>Robotics </font></span>
 												</h2>
 												<h3 class="animated8 white">
-													<span><font face="Desire" color="#FB030B">NO Prior Experience Required, <strong>Enthusiasm </strong>Is All We Need </font></span>
+													<span><font face="Desire" color="#088FA5">NO Prior Experience Required, <strong>Enthusiasm </strong>Is All We Need </font></span>
 												</h3>
 												
 											</div>
@@ -99,16 +99,18 @@
 					<div class="container">
 						<div  class="big-title text-center" >
 							<h1><strong> <font face="Tahoma" size="6" color="#010000"> ABOUT US</strong> </font> </h1>
-							<p><font size="3" color="#010000" > The Robocell is the group of people who take care of the Robotics and it is the sole society which promotes and deals with the science of robots in our college. It organizes several workshops, competitions and events in Aarohan as well as otherwise. 
+							<br>
+							<p><font size="3" color="#010000" > The Robocell is the group of people who take care of the Robotics and it is a society which promotes and deals with the science of robots in our college. It organizes several workshops, competitions and events in Aarohan as well as otherwise. 
 							Other than these, the cell members also build and promote robotics and automation-related projects. </p> </font>
-
+							<br>
 						</div>
 					<div  class="big-title text-center" >
 						<h1><font face="Tahoma" size="6" color="#010000"><strong>VISION OF OUR CELL</strong></font></h1>
+						<br>
 						<p><font size="3" COLOR="#010000">The Robocell has a single goal: to popularize and spread awareness about Robotics.
 						In the current era, where tecnology changes are rapid, it becomes imperative to stay updated. Thus, we organize workshops to teach, and competitions to reward those who take interest in this latest science.
 						We  aim to use robotics and our creativity to do something positive for our soceity and nation. </p> </font>
-																										
+						<br><br><br>																				
 
 					</div>
 					
@@ -153,56 +155,56 @@
 								<i class="fa fa-umbrella icon-large"></i>
 							</div>
 							<div class="service-content">
-								<h4><a href="contact.php">Help & Support</a></h4>
+								<h4><a href="contact.php">HELP & SUPPORT</a></h4>
 								<p><font size="3"> Need our Help? Click on to get our expert suggestions.</font> </p>
 									</div>
 							</div>
 						</div>
-					<!-- .row -->
+						<!-- .row -->
 					</div>
-				<!-- .container -->
+					<!-- .container -->
 				</div>
-			<!-- End Services Section -->
+				<!-- End Services Section -->
 
 			<!-- Start Portfolio Section -->
 			<div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
-
+				
 				<!-- Start Big Heading -->
 				<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
 					<h1><font face="Tahoma" size="6"> EVENTS IN <strong>2018-19 SESSION</strong></font></h1>
-			</div>
+				</div>
+				
 				<!-- End Big Heading -->
-			<div class="col-md-12">
-				<p class="text-center"> <font size="3">This year is full of exciting events organized by our Robocell. Like the previous years, there will be a selection of fun-filled events. Only that in the current session, they will be more competitive and up to date with our time.
-				<br/>Do join us to participate, compete and win loads of goodies!</p> </font>
-			</div>
+				<div class="col-md-12">
+					<p class="text-center"> <font size="3">This year is full of exciting events organized by our Robocell. Like the previous years, there will be a selection of fun-filled events. Only that in the current session, they will be more competitive and up to date with our time.
+					<br/>Do join us to participate, compete and win loads of goodies!</p> </font>
+				</div>
 
-			<!-- Start Recent Projects Carousel -->
-			<ul id="portfolio-list" data-animated="fadeIn">
-				<li><a href="#"><i class="more">+</i></a>
+				<!-- Start Recent Projects Carousel -->
+				<ul id="portfolio-list" data-animated="fadeIn">
+					<li>
+						<a href="#"><i class="more">+</i></a> 
+					</li>
 
-				</li>
-				<li>
-					<img src="images/robocity1.jpg" alt="" />
-		
-					<a href="robocity.php"><i class="more">GO</i></a>
-				</li>																								
-				<li>
-					<img src="images/aarohan.jpeg" alt="" />
-		
-					<a href="aarohan.php"><i class="more">GO</i></a>
+					<li>
+					<img src="images/robocity1.jpg" alt=""/>
+						<a href="robocity.php"><i class="more">GO</i></a> 
+					</li>
 
-				</li>
-				<li><a href="#"><em class="more">+</em></a>
-
-				</li>
-			</ul>
-
-			<!-- End Recent Projects Carousel -->
-
+					<li>
+						<img src="images/aarohan.jpeg" alt=""/>
+						<a href="aarohan.php"><i class="more">GO</i></a>
+					</li>
 					
-											<!-- End Portfolio Section -->
-</div>
+					<li>
+						<a href="#"><em class="more">+</em></a>
+					</li>
+				</ul>
+			</div>
+			<!-- End Recent Projects Carousel -->
+				
+		<!-- End Portfolio Section -->
+
 
 											<!-- Start Testimonials Section -->
 					<div>

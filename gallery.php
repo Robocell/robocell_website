@@ -146,7 +146,7 @@
             </li>
 
             <li>
-            <img src="images/robo_gallery/11.jpg" alt="" />
+              <img src="images/robo_gallery/11.jpg" alt="" />
             </li>
 
             <li>
@@ -162,34 +162,38 @@
             </li>
 
             <li>
-            <img src="images/robo_gallery/16.jpg" alt="" />
+              <img src="images/robo_gallery/16.jpg" alt="" />
             </li>
 
             <li>
-            <img src="images/robo_gallery/17.jpg" alt="" />
+              <img src="images/robo_gallery/17.jpg" alt="" />
             </li>
 
             <li>
-            <img src="images/robo_gallery/18.jpg" alt="" />
+              <img src="images/robo_gallery/18.jpg" alt="" />
             </li>
 
             <li>
-            <img src="images/robo_gallery/19.jpg" alt="" />
+              <img src="images/robo_gallery/19.jpg" alt="" />
             </li>
 
             <li>
-            <img src="images/robo_gallery/21.jpg" alt="" />
+              <img src="images/robo_gallery/21.jpeg" alt="" />
             </li>
             
             <li>
-            <img src="images/robo_gallery/22.jpg" alt="" />
+              <img src="images/robo_gallery/22.jpg" alt="" />
             </li>
 
             <li>
-            <img src="images/robo_gallery/23.jpg" alt="" />
+              <img src="images/robo_gallery/23.jpg" alt="" />
             </li>
 
+            <li>
+              <img src="images/robo_gallery/25.jpg" alt="" />
+            </li>
           </ul>
+         
           <!-- End Portfolio Items -->
 
         </div>

@@ -403,7 +403,7 @@ function test_input($data)
             <div id="success" class="classic-title">
               <h5><?php echo $feedback;?></h5>
             </div>
-            <h4 class="classic-title"><span>Contact Us</span></h4>
+            <h4 class="classic-title"><span><font size="5" color="Black" face="Desire"><strong>Contact Us</strong></font></span></h4>
 
             <!-- Start Contact Form -->
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" role="form" class="contact-form" id="contact-form" method="post">
