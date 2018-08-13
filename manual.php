@@ -116,12 +116,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Manual Bots</h2>
+            <h2><font face="Desire" size="6"> Manual Bots </font></h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Tutorials</a></li>
-              <li>Tutorials: Manual Bots</li>
+              <li><a href="#"><font face="Desire" size="5"> Tutorials </font></a></li>
+              <li><font face="Desire" size="5"> Manual Bots </font></li>
             </ul>
           </div>
         </div>
@@ -136,7 +136,7 @@
         <div class="row sidebar-page">
 
           <!-- Page Content -->
-          <div class="col-md-9 page-content">
+          <div class="col-md-12 page-content">
 
             <div class="tabs-section">
 
@@ -147,6 +147,8 @@
                 
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1">
+                <center><p><strong><font face="Georgia" color="Black" size="6" style="Bold"> MANUAL BOTS </font></strong></p></center>
+                <br>
                   <center><img src="images/manual/bot.jpg"></center>
                   <hr/>
                   <p><font size="4"><strong class="accent-color"><font color="Black">Manual Bot: </font> </strong></font><font size="3"> This kind bots does not have its own brain and are controlled by human.
@@ -158,11 +160,11 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                        <li><i class="fa fa-check-circle"></i> 4pcs. 300rpm Motors</li>  <img src="images/manual/pic2.jpg"> <br>
-                        <li><i class="fa fa-check-circle"></i> 1pc. 100rpm Motor</li> <img src="images/bluetooth/motor.jpg">  
-                        <li><i class="fa fa-check-circle"></i> 1pc. 10rpm high-torque Motor</li> <img src="images/manual/motor.jpg">
-                        <li><i class="fa fa-check-circle"></i> 6pcs. L-clamp</li> <img src="images/manual/clamp.jpg"> 
-                        <li><i class="fa fa-check-circle"></i> Hub</li> <br> <img src="images/manual/hub.jpg">  
+                        <li><i class="fa fa-check-circle"></i> 4pcs. 300rpm Motors</li>  <img src="images/manual/pic2.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 1pc. 100rpm Motor</li> <img src="images/bluetooth/motor.jpg"> <hr> 
+                        <li><i class="fa fa-check-circle"></i> 1pc. 10rpm high-torque Motor</li> <img src="images/manual/motor.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 6pcs. L-clamp</li> <img src="images/manual/clamp.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Hub</li> <img src="images/manual/hub.jpg">  <hr>
                         
                         <hr></font>  
                       </ul> 
@@ -171,11 +173,11 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                      <li><i class="fa fa-check-circle"></i> 4pcs. DPDT Switches</li> <br> <img src="images/manual/dpdt.jpg"> <br> <br>
-                        <li><i class="fa fa-check-circle"></i> 1pc. 12V 2A Adapter</li> <br> <img src="images/manual/adapter.jpg">
-                          <li><i class="fa fa-check-circle"></i> Spur Gear</li> <img src="images/manual/spur.jpg"> <br> <br>
-                          <li><i class="fa fa-check-circle"></i> Worm Gear</li> <img src="images/manual/worm.jpg"> <br> <br>
-                          <li><i class="fa fa-check-circle"></i> 4pcs. Wheels</li> <br> <img src="images/bluetooth/wheels.jpg"> <br> <br>
+                      <li><i class="fa fa-check-circle"></i> 4pcs. DPDT Switches</li> <img src="images/manual/dpdt.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 1pc. 12V 2A Adapter</li>  <img src="images/manual/adapter.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Spur Gear</li> <img src="images/manual/spur.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Worm Gear</li> <img src="images/manual/worm.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> 4pcs. Wheels</li>  <img src="images/bluetooth/wheels.jpg"> <hr>
                          
                           </font>
                       </ul>
@@ -189,27 +191,28 @@
                   
                   <p><font size="3"><strong class="accent-color">We're now ready to start assembling our Manual Bot!</strong></font></p>
                   <p><font size="3">Follow these easy steps: </font></p>
+                  <hr>
                   
                   
                   <div class="col-md-12">
                     <ul class="icons-list">
+                    <p><font face="Desire" size="5" color="#010000"> Procedure: </font></p>
                     <font size="3">
                       
-                      <li><i class="fa fa-check-circle"></i> As per the figure shown below place 4 L-Clamps on 4 corners of the chassis and fasten them up.</li> <br> <img src="images/manual/pic14.png"> <img src="images/manual/pic15.png"> <br>
+                      <li><i class="fa fa-check-circle"></i> As per the figure shown below place 4 L-Clamps on 4 corners of the chassis and fasten them up.</li> <br> <center> <img src="images/manual/pic14.png"> <img src="images/manual/pic15.png"> </center><br> <br>
                       <li><i class="fa fa-check-circle"></i> Now place the 300 RPM motors in the clamps such that the bodies are inside the platform and the shaft outside. Attach Wheels to the shaft and fasten them up. </li> <br>
                       <li><i class="fa fa-check-circle"></i> Now check the polarity of the motors by supplying power using 12 V adapter. Short-circuit the terminals of the motors, on the same side, having same polarity. Follow the figure mentioned below.</li> <center> <img src="images/manual/pic16.png"> </center> <br>
                         
                       <li><i class="fa fa-check-circle"></i>Connect the wires of the rear end motors with any four wires of the LAN cable provided. Now connect the LAN wires with the switches as per the diagram. The switches should be prepared according to given instruction above. Now you have a 4 wheel drive bot.</li>
                         <br>
                       <li><i class="fa fa-check-circle"></i> Now for the hand mechanism, a wooden piece will be provided. Now place a L-Clamp on the top of the platform as per the instruction given by the RC member. </li>
-                        
+                        <hr>
                         </font>
                     </ul>
                   </div>
               </div> 
               
               <div class="tab-pane fade in active" id="tab-2">
-                  
                  
                   <div class="col-md-12">
                     <ul class="icons-list">
@@ -224,7 +227,7 @@
                       <li><i class="fa fa-check-circle"></i> Attach 2 LAN wires with terminals and connect them with a DPDT switch.</li> 
                       <li><i class="fa fa-check-circle"></i> Now attach a worm gear in the shaft and fix it up. </li>  
                       <li><i class="fa fa-check-circle"></i> Place 2 spur gears on adjacent side of the worm gear and mark the points make holes in them and place long screws in them such that the heads are in bottom. Place spur gears in them. </li> <br> <center> <img src="images/manual/pic20.png"> </center> <br>
-                      <li><i class="fa fa-check-circle"></i> Now its on you to attach a customised hand mechanism on the spur gears with customised grippers. There, we have built our Manual Robot!</li> <hr>
+                      <li><i class="fa fa-check-circle"></i> Now its on you to attach a customised hand mechanism on the spur gears with customised grippers.<strong> There, we have built our Manual Robot! </strong></li> <hr>
                   </font></ul>
                   </div>
               </div>

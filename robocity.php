@@ -119,12 +119,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>RoboCity '18</h2>
+            <h2><font face="Desire" size="6"><strong> RoboCity '18 </strong></font></h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Home</a></li>
-              <li>Events: RoboCity '18</li>
+              <li><a href="#"><font face="Desire" size="5"> Home </font></a></li>
+              <li><font face="Desire" size="5"> RoboCity '18 </strong></font></li>
             </ul>
           </div>
         </div>
@@ -149,17 +149,18 @@
               <div class="tab-content">
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1">
-                  <p><font size="4"><strong class="accent-color"><font color="Black">RoboCity '18</font></strong></font><font size="3"> is a mid-year robotics competition-type event conducted by the Robo Cell of National Institute of Technology, Durgapur every year. It is usually conducted after the yearly autonomous robotics workshop and features different participating teams of various colleges of the city competing against each other to win the various prizes at stake. </font></p>
+                <center><p><strong><font face="Tahoma" color="Black" size="6"> ROBOCITY '18</font></strong></p></center><br>
+                  <p><font size="4"><strong class="accent-color"><font face="Tahoma" color="Black">RoboCity '18</font></strong></font><font size="3" face="Tahoma" color="#010000"> is a mid-year robotics competition-type event conducted by the Robo Cell of National Institute of Technology, Durgapur every year. It is usually conducted after the yearly autonomous robotics workshop and features different participating teams of various colleges of the city competing against each other to win the various prizes at stake. </font></p>
                   
                   
                     <div class="col-md-12">
                       <ul class="icons-list">
-                      <font size="3">
-                        <li><i class="fa fa-check-circle"></i> It is a team event in which participants are required to build their autonomous robots in such a way so that they can optimize their approach to the problem statement and complete the set tasks in the minimum possible time while adhering to the basic bot specifications. The tasks commonly include line-following and obstacle-avoiding although new variations are added every successive year and the event continuously becomes more competitive.</li>
-                        <li><i class="fa fa-check-circle"></i> The event is conducted in two rounds and the overall winners are decided on the basis of their performance in both of these. The first round is a qualifying round in which a time-based cut-off is set. All the teams finishing their task within the cut-off time qualify to participate in the final round.</li>
-                        <li><i class="fa fa-check-circle"></i> The final round is more difficult than the qualifying round and the scoring system is tougher. The round features more competitive and challenging tasks that are designed such that only the teams with the best approach can win.</li>
-                        <li><i class="fa fa-check-circle"></i> The top-3 teams from the final round are fit to receive the top prizes of this competition. The winners get a cash prize of deserving value as well as winning certificates. The other teams which qualify for the final round also get participating certificates for this event. </li>
-                      </font></ul>
+                        <li><i class="fa fa-check-circle"><font size="3" face="Tahoma" color="#010000"> </i> It is a team event in which participants are required to build their autonomous robots in such a way so that they can optimize their approach to the problem statement and complete the set tasks in the minimum possible time while adhering to the basic bot specifications. The tasks commonly include line-following and obstacle-avoiding although new variations are added every successive year and the event continuously becomes more competitive. </font></li>
+                        <br><li><i class="fa fa-check-circle"></i> <font size="3" face="Tahoma" color="#010000">The event is conducted in two rounds and the overall winners are decided on the basis of their performance in both of these. The first round is a qualifying round in which a time-based cut-off is set. All the teams finishing their task within the cut-off time qualify to participate in the final round.</li>
+                        <br><li><i class="fa fa-check-circle"></i> <font size="3" face="Tahoma" color="#010000">The final round is more difficult than the qualifying round and the scoring system is tougher. The round features more competitive and challenging tasks that are designed such that only the teams with the best approach can win.</li>
+                        <br><li><i class="fa fa-check-circle"></i> <font size="3" face="Tahoma" color="#010000">The top-3 teams from the final round are fit to receive the top prizes of this competition. The winners get a cash prize of deserving value as well as winning certificates. The other teams which qualify for the final round also get participating certificates for this event. </li>
+                      </font></font></font>
+                      </ul>
                     </div>
       
                   </div>
@@ -183,6 +184,11 @@
           <div class="col-md-3 sidebar right-sidebar">
 
             <!--RoboCity Image-->
+            <div class="widget images">
+              <img src="images/robocity1.jpg">
+            </div>
+            
+            
             <div class="widget images">
               <img src="images/robocity.jpg">
             </div>

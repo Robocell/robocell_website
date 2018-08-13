@@ -123,8 +123,8 @@
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Tutorials</a></li>
-              <li>Tutorials: Semi-Autonomous Bots</li>
+              <li><font face="Desire" size="5"><a href="#">Tutorials</font></a></li>
+              <li><font face="Desire" size="5">Semi-Autonomous Bots</font></li>
             </ul>
           </div>
         </div>
@@ -139,7 +139,7 @@
         <div class="row sidebar-page">
 
           <!-- Page Content -->
-          <div class="col-md-9 page-content">
+          <div class="col-md-12 page-content">
 
             <div class="tabs-section">
 
@@ -150,6 +150,7 @@
                 
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1">
+                <center><p><strong><font face="Tahoma" color="Black" size="6"> BLUETOOTH-CONTROLLED BOT</font></strong></p></center> <br>
                   <center><img src="images/bluetooth/bluetooth.jpg"></center>
                   <hr/>
                   <p><font size="4"><strong class="accent-color"><font color="Black">Bluetooth-controlled Bot</font></strong></font><font size="3"> is a type of semi-autonomous robot controlled by using Android mobile phone instead of any other method like buttons, gesture etc. We only need to touch buttons on our Android phones to control the bot in forward, backward, leftward and rightward directions. The phone is used as the transmitting device while the Bluetooth module placed in the bot is used as the receiver.</font> </p>
@@ -159,13 +160,13 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                        <li><i class="fa fa-check-circle"></i> Arduino Uno</li> <img src="images/bluetooth/uno.jpg"> 
-                        <li><i class="fa fa-check-circle"></i> DC Motors</li> <img src="images/bluetooth/motor.jpg"> 
-                        <li><i class="fa fa-check-circle"></i> Bluetooth Module HC-05</li> <br> <img src="images/bluetooth/hc05.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Arduino Uno</li> <img src="images/bluetooth/uno.jpg"> <hr> 
+                        <li><i class="fa fa-check-circle"></i> DC Motors</li> <img src="images/bluetooth/motor.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Bluetooth Module HC-05</li> <img src="images/bluetooth/hc05.jpg"> <hr>
                         <li><i class="fa fa-check-circle"></i> L293D or LM298 Motor Driver IC</li> <img src="images/bluetooth/driver.jpg"> <hr>
-                        <li><i class="fa fa-check-circle"></i> 9V Batteries and Connectors</li> <br> <img src="images/bluetooth/battery.jpg"> <img src="images/bluetooth/connector.jpg"> <hr> 
-                        <li><i class="fa fa-check-circle"></i> Wheels</li> <br> <img src="images/bluetooth/wheels.jpg"> <hr>
-                        <li><i class="fa fa-check-circle"></i> Chassis</li> <br> <img src="images/bluetooth/chassis.jpg">
+                        <li><i class="fa fa-check-circle"></i> 9V Batteries and Connectors</li> <img src="images/bluetooth/battery.jpg"> <img src="images/bluetooth/connector.jpg"> <hr> 
+                        <li><i class="fa fa-check-circle"></i> Wheels</li> <img src="images/bluetooth/wheels.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> Chassis</li> <img src="images/bluetooth/chassis.jpg"> <hr>
                         <hr>  
                       </font></ul> 
                     </div>
@@ -173,13 +174,13 @@
                     <div class="col-md-6">
                       <ul class="icons-list">
                       <font size="3">
-                          <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg"> 
-                          <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg"> <br>
-                          <li><i class="fa fa-check-circle"></i> Thin and Long Nuts and Bolts</li> <br> <img src="images/bluetooth/screw.jpg"> <br> <br>
-                          <li><i class="fa fa-check-circle"></i> Male power connectors for Arduino</li> <br> <img src="images/bluetooth/connect.jpg"> <br><br>
-                          <li><i class="fa fa-check-circle"></i> Castor Wheel</li> <img src="images/bluetooth/castor.jpg"> <br>
+                          <li><i class="fa fa-check-circle"></i> Breadboard</li> <img src="images/bluetooth/board.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Jumper Wires</li> <img src="images/bluetooth/jumper.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Thin and Long Nuts and Bolts</li> <img src="images/bluetooth/screw.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Male power connectors for Arduino</li> <img src="images/bluetooth/connect.jpg"> <hr>
+                          <li><i class="fa fa-check-circle"></i> Castor Wheel</li> <img src="images/bluetooth/castor.jpg"> <hr>
                           <li><i class="fa fa-check-circle"></i> Android Smartphone with ArduinoRC app installed  from Play Store</li> <img src="images/bluetooth/phone.png"> <hr>
-                          <li><i class="fa fa-check-circle"></i> Arduino data cable</li> <img src="images/bluetooth/cable.jpg">
+                          <li><i class="fa fa-check-circle"></i> Arduino data cable</li> <img src="images/bluetooth/cable.jpg"> <hr>
                       </font></ul>
                     </div>
                   </div>  
@@ -210,6 +211,7 @@
                   <p><font size="3">Follow these easy steps: </font></p>
                   <br>
                   
+                  <p><font size="6" face="Desire" color="#010000">Procedure: </font></p>
                   <div class="col-md-12">
                     <ul class="icons-list">
                     <font size="3">
@@ -217,12 +219,13 @@
                       <li><i class="fa fa-check-circle"></i> Now place the Arduino board and motor driver over the chassis as shown in the above picture.</li>
                       <li><i class="fa fa-check-circle"></i> Connect all the hardwares using jumper wires as shown in the picture below. Use bread board to connect Bluetooth module to arduino. Check that no two wires intersect each other.</li> <center><img src="images/bluetooth/connections.jpg"></center> <br>
                       <li><i class="fa fa-check-circle"></i> Circuit diagram for bluetooth-controlled bot is shown in above figure. A Motor driver is connected to the Arduino to run the bot. Motor driver’s input pins IN1, IN2, IN3 and IN4 are connected to Arduino's digital pin numbers 6, 9, 3 and 5 respectively. Here we have used two DC motors to drive the car in which one motor is connected at output pin of motor driver OUT1 and OUT2 and another motor is connected at OUT3 and OUT4. A 9V battery is also used to power the motor driver for driving the motors. The VCC and ground pins of Bluetooth module are connected at +5V and GND of Arduino. A 9V battery is used to power the circuit at Arduino’s female pin.</li>
-                        <p>In general use, Rx of Bluetooth module is connected to Tx of Arduino Uno so that the data that Arduino sends through Tx is received in Bluetooth module at Rx.</p> <br>
+                      <font size="3"><p>In general use, Rx of Bluetooth module is connected to Tx of Arduino Uno so that the data that Arduino sends through Tx is received in Bluetooth module at Rx.</font></p> <br> 
                       <li><i class="fa fa-check-circle"></i> Check all the connections and check the conductivity of all the jumper wires using multimeter in buzzer mode and placing both the probes at both the ends of jumper wire. Don’t connect batteries now else it will get drained soon. Insert Double-sided tape at the base of Arduino and motor driver so that they don’t fall off.</li>
-                        <p>Whenever you upload a code to Arduino with Bluetooth module connected, remove Rx and Tx wires of the Bluetooth module and then connect it after uploading the code.</p>
+                      <font size="3"> <p>Whenever you upload a code to Arduino with Bluetooth module connected, remove Rx and Tx wires of the Bluetooth module and then connect it after uploading the code. </font></p>
                       <li><i class="fa fa-check-circle"></i> <strong class="accent-color">Calibrating the Motors </strong></li>
-                        <p> Motor connections needs changing according to the code. You have to see whether the bot moves correctly according to the command given. For example, if you gave command to move forward, you need to see whether the bot is moving correctly or not. If not, then you need to interchange the motor connections either from input part of motor driver or the output part or Arduino output pins for the motor driver.</p>
-                        <p> The test code is: </p>
+                       <font size="3"> <p> Motor connections needs changing according to the code. You have to see whether the bot moves correctly according to the command given. For example, if you gave command to move forward, you need to see whether the bot is moving correctly or not. If not, then you need to interchange the motor connections either from input part of motor driver or the output part or Arduino output pins for the motor driver. </font></p>
+                       <font size="3"> <p> The test code is: </font></p>
+                       <p><font size="6" face="Desire" color="#010000">Code: </font></p>
                         <pre> 
   #define rmp 3 //Replacing rmp with 3 every where in the program so that we don't have to remember pin no.
   #define rmn 5 //Same way as above
@@ -292,7 +295,7 @@
                   
                   <p><font size="4"><strong class="accent-color">Coding your Bluetooth Bot: </strong></font></p>
                   <p> <font size="3">Now you will be writing program to receive command from Android phone app via Bluetooth module and bot has to follow it. Explaination of code is given side by side with the code.</font></p>
-
+                  <p><font size="6" face="Desire" color="#010000">Code: </font></p>
                   <pre><font size="3">
 #define rmp 3 //Replacing rmp with 3 every where in the program 
 #define rmn 5 //Same way as above
@@ -397,6 +400,7 @@ void st() //stop motion function definition
           </div>
           <!-- End Page Content -->
 
+          </div>
         </div>
       </div>
     </div>

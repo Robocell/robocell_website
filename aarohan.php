@@ -114,12 +114,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Aarohan '19</h2>
+            <h2><font face="Desire" style="Bold" size="6">Aarohan '19</font></h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Events</a></li>
-              <li>Aarohan '19</li>
+              <li><a href="#"><font face="Desire" size="5"> Events </font></a></li>
+              <li><font face="Desire" size="5"> Aarohan '19 </font></li>
             </ul>
           </div>
         </div>
@@ -134,8 +134,8 @@
         <div class="row sidebar-page">
          
           <!-- Page Content -->
-          <div class="col-md-9 page-content">
-          <center><p><font face="Desire" color="Black" size="6"> AAROHAN '19</font></p></center>
+          <div class="col-md-18 page-content">
+          <center><p><strong><font face="Tahoma" color="Black" size="6" style="Bold"> AAROHAN '19</font></strong></p></center>
             <div class="tabs-section">
 
               <!-- Tab panels -->
@@ -148,7 +148,8 @@
                   <p><font size="3" >Aarohan has been leading the light of instilling a culture of science, technology and innovation among the youth of the nation. With more than 40 events covering all genres of technology and management, Aarohan brings some of the best solutions for the mankind to the fore.</p>
                   <p><font size="3" > Many great personalities, the likes of Dr. Sunil Handa, Professor at IIM-A and Founder of The Eklavya Foundation, Mr. Irfan Alam, founder of The Samman Foundation, Mr. R. Sriram, founder of CROSSWORD and Sramana Mitra, entrepreneur and strategy consultant at MIT have graced Aarohan with their enlightening presence.</p>
                   <p><font size="4" ><strong class="accent-color"> <font color="Black">Event categories in Aarohan: </strong> </font></font></font></font></font></font></p> 
-                  
+                  <center><img src="images/aarohan/aarohan.jpeg"></center>
+                  <br>
                   <div class="col-md-12">
                       <ul class="icons-list">
                       <font size="3">
@@ -181,7 +182,7 @@
                   </div>
                 </div>
 
-                <center> <p> <strong> <font size="6" face="Tahoma" color="Black">ARMAGEDDON'19 </strong> </p> </font> </center> <br> <br>
+                <center> <p> <strong> <font size="6" face="Tahoma" color="Black">ARMAGEDDON'19 </strong> </p> </font> </center>
                 <center> <img src="images/aarohan/Image_1.jpg"></center> <br>
                 <p> <font size="3"> There are several robotics related events in Aarohan and all of them are collectively called as Armageddon.</font> </p> 
 
@@ -193,22 +194,22 @@
                       <ul class="icons-list">
                       <font size="3">
                         <li><i class="fa fa-check-circle"></i> <strong >Manual Robotics Events: </strong> These include events which test simple applications of manual robotics like use of motors, gears and switches. The controls of these bots have to be precise. Since the teams compete among each other, winning these events is all about precision and timing. To excel, the participants need to have a proper control over their bot. </li>
-                        <p>The bot itself has to be well constructed, having a perfect coordination among the individual parts. There are usually one or two events concerning manual robotics.</p>
+                        <p><font size="3"> The bot itself has to be well constructed, having a perfect coordination among the individual parts. There are usually one or two events concerning manual robotics.</font></p>
                       
-                        <center> <img src="images/aarohan/Image_2.jpeg"> <img src="images/aarohan/Image_6.jpeg"></center> <br>
+                        <center> <img src="images/aarohan/Image_2.jpeg"></center> <br>
                         
                         
                         <li><i class="fa fa-check-circle"></i> <strong >Autonomous Robotics Events: </strong> The robot designed for these events needs to be able to navigate its way based upon inputs from sensors like infrared and ultrasonic sensors. The bot needs to be designed to work as a line follower and as a wall avoider/follower. </li> <br>
                         <center> <img src="images/aarohan/Image_3.jpeg"> </center> <br>
-                        <p> There are usually two rounds and the top performing teams of the first round get selected for the final round.  </p>
+                        <p><font size="3"> There are usually two rounds and the top performing teams of the first round get selected for the final round.  </font></p>
                       
                         <li><i class="fa fa-check-circle"></i> <strong >Robo Wars: </strong> Can you build a strong, indestructible robot which can survive attacks from the other robots? Are you confident that your robot is stronger than that of your opponents? Well, robowars is the event for you. </li> <br>
-                        <p> The two manual (or semi autonomous) bots collide against each other in a “war ring”. The bot which forces the other bot out of the ring is declared as winner.</p>
-                    
+                        <p><font size="3"> The two manual (or semi autonomous) bots collide against each other in a “war ring”. The bot which forces the other bot out of the ring is declared as winner.</font></p>
+                        
                         <center> <img src="images/aarohan/Image_4.jpg"> </center> <br>
                         </font>
                       </ul>
-                      <hr>
+                      <br>
                   </div>
                 </div>
 
@@ -257,12 +258,6 @@
           <!-- End Page Content -->
 
 
-          <!--Sidebar-->
-          <div class="col-md-3 sidebar right-sidebar">
-            <img src="images/aarohan.jpeg"> <br> <br>
-
-          </div>
-          <!--End sidebar-->
 
 
         </div>

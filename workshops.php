@@ -120,12 +120,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Workshops</h2>
+            <h2><font face="Desire" size="6">Workshops</font></h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Home</a></li>
-              <li>Workshops</li>
+              <li><font face="Desire" size="5"><a href="#">Home</font></a></li>
+              <li><font face="Desire" size="5">Workshops </font></li>
             </ul>
           </div>
         </div>
@@ -149,6 +149,7 @@
               <!-- Tab panels -->
               <div class="tab-content">
                 <!-- Tab Content 1 -->
+                <center><p><strong><font face="Tahoma" color="Black" size="6"> WORKSHOPS</font></strong></p></center><br>
                 <div class="tab-pane fade in active" id="tab-1">
                   <p><font size="3"><strong class="accent-color"><font color="Black">RoboCell</font></strong> organizes several workshops throughout the year to promote and teach robotic and automation technology to the budding enthusiasts as well as those who are completely new to this stuff.  </font></p>
                 </div>

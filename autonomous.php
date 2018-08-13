@@ -111,12 +111,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Autonomous Bots</h2>
+            <h2><font face="Desire" style="Bold" size="6"> Autonomous Bots </font></h2>
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Tutorials</a></li>
-              <li>Tutorials: Autonomous Bots</li>
+              <li><a href="#"><font face="Desire" size="5"> Tutorials </font></a></li>
+              <li><font face="Desire" size="5"> Autonomous Bots </font></li>
             </ul>
           </div>
         </div>
@@ -131,7 +131,7 @@
         <div class="row sidebar-page">
 
           <!-- Page Content -->
-          <div class="col-md-9 page-content">
+          <div class="col-md-15 page-content">
 
             <div class="tabs-section">
 
@@ -142,6 +142,8 @@
                 
                 <!-- Tab Content 1 -->
                 <div class="tab-pane fade in active" id="tab-1">
+                <center><p><strong><font face="Desire" color="Black" size="7" style="Bold"> AUTONOMOUS BOTS</font></strong></p></center>
+                <br>
                   <center><img src="images/autonomous/autonomous.jpg"></center>
                   <hr/>
                   <p><font size="4" ><strong class="accent-color"><font color="Black">Autonomous Bot: </font></strong></font> <font size="3">An autonomous robot is a robot that is designed and engineered to deal with its environment on its own, and work for extended periods of time without human intervention. Autonomous robots often have sophisticated features that can help them to understand their physical environment and automate parts of their maintenance and direction that used to be done by human hands. </p>
@@ -166,7 +168,7 @@
                       <ul class="icons-list">
                       <font size="3">
                         <li><i class="fa fa-check-circle"></i> Batteries</li> <img src="images/bluetooth/battery.jpg"> <hr>
-                        <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <br> <img src="images/bluetooth/motor.jpg"> <hr>
+                        <li><i class="fa fa-check-circle"></i> 2pcs. 300rpm Motors</li> <img src="images/bluetooth/motor.jpg"> <hr>
                         <li><i class="fa fa-check-circle"></i> L298 Motor Driver</li> <img src="images/bluetooth/driver.jpg"> <hr>
                         <li><i class="fa fa-check-circle"></i> 3pcs. Digital IR Sensors</li> <img src="images/autonomous/ir.jpg"> <hr>
                         <li><i class="fa fa-check-circle"></i> Ultrasound Sensor Module</li> <img src="images/autonomous/ultrasonic.jpg"> <hr> 
@@ -237,7 +239,7 @@
               </pre>
 
                   <center> <img src="images/autonomous/logic.png"> </center> <hr>
-
+                  <p><font size="6" face="Desire" color="#010000"> Code: </font>
                   <p> <font size="4"><strong> The following Arduino code takes care of these situations and can be used to make a line-following bot: </strong></font> </p>
 
                   <pre><font size="3">
@@ -361,11 +363,12 @@ void sright()
 
                   <div class="col-md-12">
                     <ul class="icons-list">
-                    <font size="3">
-                      <li><i class="fa fa-check-circle"></i> We can measure the distance using ultrasonic sensors by using a simple formula:</li>                    
-                        <p> Distance (in cms) =(340*100*ping-time)/2 </p>
-                        <p> where, ping-time is the time taken by the ultrasonic sound to reach the echo after being emitted by the trigger.</p>
-                        </font></ul>
+                      <li><i class="fa fa-check-circle"></i> <font size="3"> We can measure the distance using ultrasonic sensors by using a simple formula:</li>                    
+                      <pre>  
+                        <p> <font size="3"><strong> Distance (in cms) = (340 * 100 * ping-time) / 2 </strong></p>
+                        <p> <font size="3"> where, ping-time is the time taken by the ultrasonic sound to reach the echo after being emitted by the trigger.</p>
+                        </font></font></font></ul>
+                      </pre>
                     <hr>
                   </div>
               </div>
@@ -388,8 +391,9 @@ void sright()
               <div class="tab-pane fade in active" id="tab-7">
                 <p><font size="3"><strong class="accent-color"> Other Applications of the ULtrasonic sensor: </strong></font> </p>
                   <center><img src="images/autonomous/image2.jpg"></center>
+                <br>
 
-                  <div class="col-md-12">
+                  <div class="col-md-15">
                     <ul class="icons-list">
                     <font size="3">
                       <li><i class="fa fa-check-circle"></i> Wall follower: A robot which navigates with the help of walls in a room or in a corridor.</i> </li>                    

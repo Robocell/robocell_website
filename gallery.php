@@ -116,13 +116,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <h2>Robo Gallery</h2>
+            <h2><font face="Desire" size="6"> Robo Gallery </font></h2>
             
           </div>
           <div class="col-md-6">
             <ul class="breadcrumbs">
-              <li><a href="#">Home</a></li>
-              <li>Robo Gallery</li>
+              <li><a href="#"><font face="Desire" size="5"> Home </font></a></li>
+              <li><font face="Desire" size="5"> Robo Gallery </font></li>
             </ul>
           </div>
         </div>
@@ -187,10 +187,6 @@
 
             <li>
               <img src="images/robo_gallery/23.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/25.jpg" alt="" />
             </li>
           </ul>
          
