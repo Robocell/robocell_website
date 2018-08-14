@@ -137,57 +137,18 @@
         <div class=" portfolio-page portfolio-4column">
 
           <ul id="portfolio-list" data-animated="fadeIn">
+          <?php
+            $con = mysqli_connect('localhost','root','','robocell',3306) or die("Server can't connect try again");
+            mysqli_select_db($con,'robocell') or die("Database not found!!");
+            $s = "select * from gallery";
+            $result = mysqli_query($con,$s) or die(mysqli_error($con));
+            while($row = mysqli_fetch_assoc($result))
+            {
+          ?>
             <li>
-              <img src="images/robo_gallery/2.jpg" alt="" />
+              <img src="images/robo_gallery/<?php echo $row['img_src'];?>" alt="image:<?php echo $row['name'];?>" />
             </li>
-            
-            <li>
-              <img src="images/robo_gallery/3.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/11.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/12.png" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/13.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/14.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/16.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/17.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/18.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/19.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/21.jpeg" alt="" />
-            </li>
-            
-            <li>
-              <img src="images/robo_gallery/22.jpg" alt="" />
-            </li>
-
-            <li>
-              <img src="images/robo_gallery/23.jpg" alt="" />
-            </li>
+            <?php } ?>
           </ul>
          
           <!-- End Portfolio Items -->

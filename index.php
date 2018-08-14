@@ -167,7 +167,7 @@
 				<!-- End Services Section -->
 
 			<!-- Start Portfolio Section -->
-			<div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff;">
+			<div class="section full-width-portfolio" style="border-top:0; border-bottom:0; background:#fff; padding-top:0px;">
 				
 				<!-- Start Big Heading -->
 				<div class="big-title text-center" data-animation="fadeInDown" data-animation-delay="01">
@@ -187,7 +187,7 @@
 					</li>
 
 					<li>
-					<img src="images/robocity1.jpg" alt=""/>
+					<img src="images/robocity1.jpg" alt="" style="padding-right:10px;"/>
 						<a href="robocity.php"><i class="more">GO</i></a> 
 					</li>
 
